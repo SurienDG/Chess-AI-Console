@@ -1,0 +1,9859 @@
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+RNBKQB RPPP PPPP     N     P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPP PPPP     N     P       p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R BKQB RPPP PPPP  N  N     P       p      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQB RPPP PPPP  N  N     P       p      n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+B8C6
+R  KQB RPPP PPPP  N  N     P       p  B   n  n  ppp ppppr bkqb r
+111111
+9
+00 
+No
+F1B5
+R  KQB RPPP PPPP  N  N     P  b    p  B   n  n  ppp ppppr  kqb r
+111111
+10
+00 
+No
+F8B4
+ KR QB RPPP PPPP  N  N     P  b    p  B   n  n  ppp ppppr  kqb r
+011111
+11
+00 
+No
+E1G1
+ KR QB RPPP PPPP  N  N     P  b    p  B   n  n  ppp pppp kr qb r
+001111
+12
+00 
+No
+E8G8
+ KR QB RPPP  PPP  N PN     P  b    p  B   n  n  ppp pppp kr qb r
+001111
+13
+00 
+No
+D2D3
+ KR QB RPPP  PPP  N PN     P  b    p  B   n pn  ppp  ppp kr qb r
+001111
+14
+00 
+No
+D7D6
+ KR Q  RPPP  PPP  N PN     P  b  B p  B   n pn  ppp  ppp kr qb r
+001111
+15
+00 
+No
+C1G5
+ KR Q  RPPP  PPP  N Pb     P     B p  B   n pn  ppp  ppp kr qb r
+001111
+16
+00 
+No
+B4C3
+ KR Q  RPPP  P P  N PP     P     B p  B   n pn  ppp  ppp kr qb r
+001111
+17
+00 
+No
+B2C3
+ KR Q  RPPP  P P  N PP     P     B p  B   n pn  pppq ppp kr  b r
+001111
+18
+00 
+No
+D8E7
+ K RQ  RPPP  P P  N PP     P     B p  B   n pn  pppq ppp kr  b r
+001111
+19
+00 
+No
+F1E1
+ K RQ  RPPP  P P  N PP     P     B p  B   n p   pppq ppp kr nb r
+001111
+20
+00 
+No
+C6D8
+ K RQ  RPPP  P P  N  P     PP    B p  B   n p   pppq ppp kr nb r
+001111
+21
+00 
+No
+D3D4
+ K RQ  RPPP  P P  N  P     PP    B p  B   nnp   pppq ppp kr  b r
+001111
+22
+00 
+No
+D8E6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P B     p         n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1C4
+R  KQBNRPPP PPPP  N        P B     p b       n  ppp pppprn kqb r
+111111
+8
+00 
+No
+F8C5
+R  KQBNRPPP P PP  N  P     P B     p b       n  ppp pppprn kqb r
+111111
+9
+00 
+No
+C2C3
+R  KQBNRPPP P PP  N  P     P B     p b    n  n  ppp ppppr  kqb r
+111111
+10
+00 
+No
+G8F6
+R  KQBNRPPP   PP  N  P     PPB     p b    n  n  ppp ppppr  kqb r
+111111
+11
+00 
+No
+D2D4
+R  KQBNRPPP   PP  N  P     PpB       b    n  n  ppp ppppr  kqb r
+111111
+12
+00 
+No
+E5D4
+R  KQBNRPPP   PP  N        PPB       b    n  n  ppp ppppr  kqb r
+111111
+13
+00 
+No
+C3D4
+R  KQBNRPPP   PP  N        PPBb           n  n  ppp ppppr  kqb r
+111111
+14
+00 
+No
+C5B4
+R  KQ NRPPP B PP  N        PPBb           n  n  ppp ppppr  kqb r
+111111
+15
+00 
+No
+C1D2
+R  KQ NRPPP b PP  N        PPB            n  n  ppp ppppr  kqb r
+111111
+16
+00 
+No
+B4D2
+R  KQ  RPPP N PP  N        PPB            n  n  ppp ppppr  kqb r
+111111
+17
+00 
+No
+B1D2
+R  KQ  RPPP N PP  N        PPB      p     n  n  ppp  pppr  kqb r
+111111
+18
+00 
+No
+D7D5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P B     p         n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1C4
+R  KQBNRPPP PPPP  N        P B     p b       n  ppp pppprn kqb r
+111111
+8
+00 
+No
+F8C5
+R  KQBNRPPP P PP  N  P     P B     p b       n  ppp pppprn kqb r
+111111
+9
+00 
+No
+C2C3
+R  KQBNRPPP P PP  N  P     P B     p b    n  n  ppp ppppr  kqb r
+111111
+10
+00 
+No
+G8F6
+R  KQBNRPPP   PP  N PP     P B     p b    n  n  ppp ppppr  kqb r
+111111
+11
+00 
+No
+D2D3
+R  KQBNRPPP   PP  N PP     P B     p b    n pn  ppp  pppr  kqb r
+111111
+12
+00 
+No
+D7D6
+R  KQBNRPPP    P  N PP     P BP    p b    n pn  ppp  pppr  kqb r
+111111
+13
+00 
+No
+B2B4
+R  KQBNRPPP    P  N PP     P BP    p      n pnb ppp  pppr  kqb r
+111111
+14
+00 
+No
+C5B6
+R  KQBNRPPP       N PP     P BPP   p      n pnb ppp  pppr  kqb r
+111111
+15
+00 
+No
+A2A4
+R  KQBNRPPP       N PP     P BPP   p   p  n pnb ppp  pp r  kqb r
+111111
+16
+00 
+No
+A7A5
+R  KQBNRPPP       N PP     P B P   p  Pp  n pnb ppp  pp r  kqb r
+111111
+17
+00 
+No
+B4B5
+R  KQBNRPPP       N PP     P B P   p  Pp  n p b pppn pp r  kqb r
+111111
+18
+00 
+No
+C6E7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P B     p         n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1C4
+R  KQBNRPPP PPPP  N        P B     p b       n  ppp pppprn kqb r
+111111
+8
+00 
+No
+F8C5
+R  KQBNRPPP  PPP  N P      P B     p b       n  ppp pppprn kqb r
+111111
+9
+00 
+No
+D2D3
+R  KQBNRPPP  PPP  N P      P B     p b    n  n  ppp ppppr  kqb r
+111111
+10
+00 
+No
+G8F6
+R  KQBNRPPP   PP  N PP     P B     p b    n  n  ppp ppppr  kqb r
+111111
+11
+00 
+No
+C2C3
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P B     p         n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1C4
+R  KQBNRPPP PPPP  N        P B     p      n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+G8F6
+R  KQBNRPPP PPPP           P B   N p      n  n  ppp ppppr bkqb r
+111111
+9
+00 
+No
+F3G5
+R  KQBNRPPP PPPP           P B   N pp     n  n  ppp  pppr bkqb r
+111111
+10
+00 
+No
+D7D5
+R  KQBNRPPP PPPP             B   N pP     n  n  ppp  pppr bkqb r
+111111
+11
+00 
+No
+E4D5
+R  KQBNRPPP PPPP             B   N pP  n  n     ppp  pppr bkqb r
+111111
+12
+00 
+No
+C6A5
+R  KQBNRPPP PPPP                 N pP Bn  n     ppp  pppr bkqb r
+111111
+13
+00 
+No
+C4B5
+R  KQBNRPPP PPPP                 N pP Bn  n  p  ppp   ppr bkqb r
+111111
+14
+00 
+No
+C7C6
+R  KQBNRPPP PPPP                 N p  Bn  n  P  ppp   ppr bkqb r
+111111
+15
+00 
+No
+D5C6
+R  KQBNRPPP PPPP                 N p  Bn  n  p  ppp    pr bkqb r
+111111
+16
+00 
+No
+B7C6
+R  KQBNRPPPBPPPP                 N p   n  n  p  ppp    pr bkqb r
+111111
+17
+00 
+No
+B5E2
+R  KQBNRPPPBPPPP                 N p   np n  p   pp    pr bkqb r
+111111
+18
+00 
+No
+H7H6
+R  KQBNRPPPBPPPP  N                p   np n  p   pp    pr bkqb r
+111111
+19
+00 
+No
+G5F3
+R  KQBNRPPPBPPPP  N        p           np n  p   pp    pr bkqb r
+111111
+20
+00 
+No
+E5E4
+R  KQBNRPPPBPPPP           p       N   np n  p   pp    pr bkqb r
+111111
+21
+00 
+No
+F3E5
+R  KQBNRPPPBPPPP           p       N   np n bp   pp    pr  kqb r
+111111
+22
+00 
+No
+F8D6
+R  KQBNRPP BPPPP  P        p       N   np n bp   pp    pr  kqb r
+111111
+23
+00 
+P
+F2F4
+R  KQBNRPP BPPPP  p                N   np n bp   pp    pr  kqb r
+111111
+24
+34C
+No
+E4F3
+R  KQBNRPP BPPPP  N                    np n bp   pp    pr  kqb r
+111111
+25
+34C
+No
+E5F3
+R  KQBNRPP BPPPP  N                    np n bp   pp    p kr qb r
+101111
+26
+34C
+No
+E8G8
+R  KQBNRPP B PPP  N         P          np n bp   pp    p kr qb r
+101111
+27
+34C
+No
+D2D4
+R  KQBNRPP B PPP  N         P        p np n b    pp    p kr qb r
+101111
+28
+34C
+No
+C6C5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P B     p         n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1C4
+R  KQBNRPPP PPPP  N        P B     p      n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+G8F6
+R  KQBNRPPP  PPP  N        PPB     p      n  n  ppp ppppr bkqb r
+111111
+9
+00 
+No
+D2D4
+R  KQBNRPPP  PPP  N        PpB            n  n  ppp ppppr bkqb r
+111111
+10
+00 
+No
+E5D4
+ KR QBNRPPP  PPP  N        PpB            n  n  ppp ppppr bkqb r
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPPP  PPP  N        npB               n  ppp ppppr bkqb r
+011111
+12
+00 
+No
+F6E4
+ K RQBNRPPP  PPP  N        npB               n  ppp ppppr bkqb r
+011111
+13
+00 
+No
+F1E1
+ K RQBNRPPP  PPP  N        npB      p        n  ppp  pppr bkqb r
+011111
+14
+00 
+No
+D7D5
+ K RQBNRPPP  PPP  N        np       B        n  ppp  pppr bkqb r
+011111
+15
+00 
+No
+C4D5
+ K RQBNRPPP  PPP  N        np       q        n  ppp  pppr bk b r
+011111
+16
+00 
+No
+D8D5
+ K RQB RPPP  PPP  N  N     np       q        n  ppp  pppr bk b r
+011111
+17
+00 
+No
+B1C3
+ K RQB RPPP  PPP  N  N     np   q            n  ppp  pppr bk b r
+011111
+18
+00 
+No
+D5H5
+ K RQB RPPP  PPP  N        Np   q            n  ppp  pppr bk b r
+011111
+19
+00 
+No
+C3E4
+ K RQB RPPP  PPP  N        Np   q          b n  ppp  pppr bk   r
+011111
+20
+00 
+No
+C8E6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P B     p         n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1C4
+R  KQBNRPPP PPPP  N        P B     p      n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+G8F6
+R  KQBNRPPP  PPP  N P      P B     p      n  n  ppp ppppr bkqb r
+111111
+9
+00 
+No
+D2D3
+R  KQBNRPPP  PPP  N P      P B     p      n  n  pppbppppr  kqb r
+111111
+10
+00 
+No
+F8E7
+ KR QBNRPPP  PPP  N P      P B     p      n  n  pppbppppr  kqb r
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPPP  PPP  N P      P B     p      n  n  pppbpppp kr qb r
+001111
+12
+00 
+No
+E8G8
+ KR QBNRPPP   PP  N PP     P B     p      n  n  pppbpppp kr qb r
+001111
+13
+00 
+No
+C2C3
+ KR QBNRPPP   PP  N PP     P B     p      n pn  pppb ppp kr qb r
+001111
+14
+00 
+No
+D7D6
+ KR QBNRPPP   PP  N PPB    P       p      n pn  pppb ppp kr qb r
+001111
+15
+00 
+No
+C4B3
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R BKQBNRPPP  PPP  N        PP      p         n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        Pp                n  ppp pppprnbkqb r
+111111
+8
+00 
+No
+E5D4
+R BKQBNRPPP  PPP           PN                n  ppp pppprnbkqb r
+111111
+9
+00 
+No
+F3D4
+R BKQBNRPPP  PPP           PN             n  n  ppp ppppr bkqb r
+111111
+10
+00 
+No
+G8F6
+R BKQBNRPPP  PPP           P              n  N  ppp ppppr bkqb r
+111111
+11
+00 
+No
+D4C6
+R BKQBNRPPP  PPP           P              n  p  ppp pp pr bkqb r
+111111
+12
+00 
+No
+B7C6
+R BKQBNRPPP  PPP                   P      n  p  ppp pp pr bkqb r
+111111
+13
+00 
+No
+E4E5
+R BKQBNRPPP  PPP                   P      n  p  pppqpp pr bk b r
+111111
+14
+00 
+No
+D8E7
+R BK BNRPPPQ PPP                   P      n  p  pppqpp pr bk b r
+111111
+15
+00 
+No
+D1E2
+R BK BNRPPPQ PPP                   Pn        p  pppqpp pr bk b r
+111111
+16
+00 
+No
+F6D5
+R BK BNRPPPQ  PP             P     Pn        p  pppqpp pr bk b r
+111111
+17
+00 
+No
+C2C4
+R BK BNRPPPQ  PP             P     Pn        p bpppqpp pr bk   r
+111111
+18
+00 
+No
+C8A6
+R BK BNRP PQ  PP P           P     Pn        p bpppqpp pr bk   r
+111111
+19
+00 
+No
+G2G3
+R BK BNRP PQ  PP P           P     Pn    p   p bp pqpp pr bk   r
+111111
+20
+00 
+No
+G7G6
+R BK BNRP PQ   P P    P      P     Pn    p   p bp pqpp pr bk   r
+111111
+21
+00 
+No
+B2B3
+R BK BNRP PQ   P P    P      P     Pn    p   p bpbpqpp pr  k   r
+111111
+22
+00 
+No
+F8G7
+R BK  NRP PQ  BP P    P      P     Pn    p   p bpbpqpp pr  k   r
+111111
+23
+00 
+No
+C1B2
+R BK  NRP PQ  BP P    P      P     Pn    p   p bpbpqpp p kr    r
+101111
+24
+00 
+No
+E8G8
+R  K  NRPBPQ  BP P    P      P     Pn    p   p bpbpqpp p kr    r
+101111
+25
+00 
+No
+F1G2
+R  K  NRPBPQ  BP P    P      P     Pn    p   p bpbpqpp p krr    
+101101
+26
+00 
+No
+A8E8
+ KR   NRPBPQ  BP P    P      P     Pn    p   p bpbpqpp p krr    
+001101
+27
+00 
+No
+E1G1
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R BKQBNRPPP  PPP  N        PP      p         n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        Pp                n  ppp pppprnbkqb r
+111111
+8
+00 
+No
+E5D4
+R BKQBNRPPP  PPP           PN                n  ppp pppprnbkqb r
+111111
+9
+00 
+No
+F3D4
+R BKQBNRPPP  PPP           PN        b       n  ppp pppprn kqb r
+111111
+10
+00 
+No
+F8C5
+R BKQ NRPPP  PPP   B       PN        b       n  ppp pppprn kqb r
+111111
+11
+00 
+No
+C1E3
+R BKQ NRPPP  PPP   B       PN        b    q  n  ppp pppprn k b r
+111111
+12
+00 
+No
+D8F6
+R BKQ NRPPP   PP   B P     PN        b    q  n  ppp pppprn k b r
+111111
+13
+00 
+No
+C2C3
+R BKQ NRPPP   PP   B P     PN        b    q  n  pppnppppr  k b r
+111111
+14
+00 
+No
+G8E7
+R BKQ NRP P   PP P B P     PN        b    q  n  pppnppppr  k b r
+111111
+15
+00 
+No
+G2G3
+R BKQ NRP P   PP P B P     PN        b    q  n  pppnpppp kr  b r
+101111
+16
+00 
+No
+E8G8
+R  KQ NRPBP   PP P B P     PN        b    q  n  pppnpppp kr  b r
+101111
+17
+00 
+No
+F1G2
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P       p  B      n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1B5
+R  KQBNRPPP PPPP  N        P       p  B      n pppp ppp rnbkqb r
+111111
+8
+00 
+No
+A7A6
+R  KQBNRPPP PPPP  N        P   B   p         n pppp ppp rnbkqb r
+111111
+9
+00 
+No
+B5A4
+R  KQBNRPPP PPPP  N        P   B   p      n  n pppp ppp r bkqb r
+111111
+10
+00 
+No
+G8F6
+ KR QBNRPPP PPPP  N        P   B   p      n  n pppp ppp r bkqb r
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPPP PPPP  N        P   B   p      n  n ppppbppp r  kqb r
+011111
+12
+00 
+No
+F8E7
+ K RQBNRPPP PPPP  N        P   B   p      n  n ppppbppp r  kqb r
+011111
+13
+00 
+No
+F1E1
+ K RQBNRPPP PPPP  N        P   B   p  p   n  n ppppbpp  r  kqb r
+011111
+14
+00 
+No
+B7B5
+ K RQBNRPPP PPPP  N   B    P       p  p   n  n ppppbpp  r  kqb r
+011111
+15
+00 
+No
+A4B3
+ K RQBNRPPP PPPP  N   B    P       p  p   n pn ppppb p  r  kqb r
+011111
+16
+00 
+No
+D7D6
+ K RQBNRPPP P PP  N  PB    P       p  p   n pn ppppb p  r  kqb r
+011111
+17
+00 
+No
+C2C3
+ K RQBNRPPP P PP  N  PB    P       p  p   n pn ppppb p   kr qb r
+001111
+18
+00 
+No
+E8G8
+ K RQBNR PP P PPP N  PB    P       p  p   n pn ppppb p   kr qb r
+001111
+19
+00 
+No
+H2H3
+ K RQBNR PP P PPP N  PB    P       p  pn  n p  ppppb p   kr qb r
+001111
+20
+00 
+No
+C6A5
+ K RQBNR PP PBPPP N  P     P       p  pn  n p  ppppb p   kr qb r
+001111
+21
+00 
+No
+B3C2
+ K RQBNR PP PBPPP N  P     P       p ppn  n p  ppppb     kr qb r
+001111
+22
+00 
+No
+C7C5
+ K RQBNR PP  BPPP N  P     PP      p ppn  n p  ppppb     kr qb r
+001111
+23
+00 
+No
+D2D4
+ K RQBNR PP  BPPP N  P     PP      p ppn  n p  ppppb q   kr  b r
+001111
+24
+00 
+No
+D8C7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P       p  B      n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1B5
+R  KQBNRPPP PPPP  N        P       p bB      n  ppp pppprn kqb r
+111111
+8
+00 
+No
+F8C5
+R  KQBNRPPP P PP  N  P     P       p bB      n  ppp pppprn kqb r
+111111
+9
+00 
+No
+C2C3
+R  KQBNRPPP P PP  N  P     P       p bB   n  n  ppp ppppr  kqb r
+111111
+10
+00 
+No
+G8F6
+ KR QBNRPPP P PP  N  P     P       p bB   n  n  ppp ppppr  kqb r
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPPP P PP  N  P     P       p bB   n  n  ppp pppp kr qb r
+001111
+12
+00 
+No
+E8G8
+ KR QBNRPPP   PP  N  P     PP      p bB   n  n  ppp pppp kr qb r
+001111
+13
+00 
+No
+D2D4
+ KR QBNRPPP   PP  N  P     PP      p  B   n  nb ppp pppp kr qb r
+001111
+14
+00 
+No
+C5B6
+ K RQBNRPPP   PP  N  P     PP      p  B   n  nb ppp pppp kr qb r
+001111
+15
+00 
+No
+F1E1
+ K RQBNRPPP   PP  N  P     PP      p  B   n pnb ppp  ppp kr qb r
+001111
+16
+00 
+No
+D7D6
+ K RQBNR PP   PPP N  P     PP      p  B   n pnb ppp  ppp kr qb r
+001111
+17
+00 
+No
+H2H3
+ K RQBNR PP   PPP N  P     PP      p  B   n p b pppn ppp kr qb r
+001111
+18
+00 
+No
+C6E7
+ K RQB R PP N PPP N  P     PP      p  B   n p b pppn ppp kr qb r
+001111
+19
+00 
+No
+B1D2
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P       p  B      n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1B5
+R  KQBNRPPP PPPP  N        P       p  B   n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+G8F6
+ KR QBNRPPP PPPP  N        P       p  B   n  n  ppp ppppr bkqb r
+011111
+9
+00 
+No
+E1G1
+ KR QBNRPPP PPPP  N        P       p bB   n  n  ppp ppppr  kqb r
+011111
+10
+00 
+No
+F8C5
+ KR QBNRPPP PPPP           P       N bB   n  n  ppp ppppr  kqb r
+011111
+11
+00 
+No
+F3E5
+ KR QBNRPPP PPPP           P       n bB   n     ppp ppppr  kqb r
+011111
+12
+00 
+No
+C6E5
+ KR QBNRPPP  PPP           PP      n bB   n     ppp ppppr  kqb r
+011111
+13
+00 
+No
+D2D4
+ KR QBNRPPP  PPP           PP      n bB   n  p  ppp p ppr  kqb r
+011111
+14
+00 
+No
+C7C6
+ KR QBNRPPP  PPP           P       P bB   n  p  ppp p ppr  kqb r
+011111
+15
+00 
+No
+D4E5
+ KR QBNRPPP  PPP           n       P bB      p  ppp p ppr  kqb r
+011111
+16
+00 
+No
+F6E4
+ KR QBNRPPP  PPP    B      n       P b       p  ppp p ppr  kqb r
+011111
+17
+00 
+No
+B5D3
+ KR QBNRPPP  PPP    B      n       P b      pp  ppp   ppr  kqb r
+011111
+18
+00 
+p
+D7D5
+ KR QBNRPPP  PPP    B      n         b      Pp  ppp   ppr  kqb r
+011111
+19
+65E
+No
+E5D6
+ KR QBNRPPP  PPP    B                b    n Pp  ppp   ppr  kqb r
+011111
+20
+65E
+No
+E4F6
+ K RQBNRPPP  PPP    B                b    n Pp  ppp   ppr  kqb r
+011111
+21
+65E
+No
+F1E1
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P       p  B      n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1B5
+R  KQBNRPPP PPPP  N        P       p  B   n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+G8F6
+ KR QBNRPPP PPPP  N        P       p  B   n  n  ppp ppppr bkqb r
+011111
+9
+00 
+No
+E1G1
+ KR QBNRPPP PPPP  N        n       p  B      n  ppp ppppr bkqb r
+011111
+10
+00 
+No
+F6E4
+ KR QBNRPPP  PPP  N        nP      p  B      n  ppp ppppr bkqb r
+011111
+11
+00 
+No
+D2D4
+ KR QBNRPPP  PPP  N        nP      p  B      n  pppbppppr  kqb r
+011111
+12
+00 
+No
+F8E7
+ KR  BNRPPPQ PPP  N        nP      p  B      n  pppbppppr  kqb r
+011111
+13
+00 
+No
+D1E2
+ KR  BNRPPPQ PPP  N         P      p  B     nn  pppbppppr  kqb r
+011111
+14
+00 
+No
+E4D6
+ KR  BNRPPPQ PPP  N         P      p        nB  pppbppppr  kqb r
+011111
+15
+00 
+No
+B5C6
+ KR  BNRPPPQ PPP  N         P      p        np  pppbpp pr  kqb r
+011111
+16
+00 
+No
+B7C6
+ KR  BNRPPPQ PPP  N                P        np  pppbpp pr  kqb r
+011111
+17
+00 
+No
+D4E5
+ KR  BNRPPPQ PPP  N                P         p  pppbppnpr  kqb r
+011111
+18
+00 
+No
+D6B7
+ KR  B RPPPQ PPP  N  N             P         p  pppbppnpr  kqb r
+011111
+19
+00 
+No
+B1C3
+ KR  B RPPPQ PPP  N  N             P         p  pppbppnp kr qb r
+001111
+20
+00 
+No
+E8G8
+ KR  B RPPPQ PPP     N      N      P         p  pppbppnp kr qb r
+001111
+21
+00 
+No
+F3D4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P       p  B      n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1B5
+R  KQBNRPPP PPPP  N        P       p  B      n pppp ppp rnbkqb r
+111111
+8
+00 
+No
+A7A6
+R  KQBNRPPP PPPP  N        P   B   p         n pppp ppp rnbkqb r
+111111
+9
+00 
+No
+B5A4
+R  KQBNRPPP PPPP  N        P   B   p      n  n pppp ppp r bkqb r
+111111
+10
+00 
+No
+G8F6
+ KR QBNRPPP PPPP  N        P   B   p      n  n pppp ppp r bkqb r
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPPP PPPP  N        n   B   p         n pppp ppp r bkqb r
+011111
+12
+00 
+No
+F6E4
+ KR QBNRPPP  PPP  N        nP  B   p         n pppp ppp r bkqb r
+011111
+13
+00 
+No
+D2D4
+ KR QBNRPPP  PPP  N        nP  B   p  p      n pppp pp  r bkqb r
+011111
+14
+00 
+No
+B7B5
+ KR QBNRPPP  PPP  N   B    nP      p  p      n pppp pp  r bkqb r
+011111
+15
+00 
+No
+A4B3
+ KR QBNRPPP  PPP  N   B    nP      pp p      n pppp  p  r bkqb r
+011111
+16
+00 
+No
+D7D5
+ KR QBNRPPP  PPP  N   B    n       Pp p      n pppp  p  r bkqb r
+011111
+17
+00 
+No
+D4E5
+ KR QBNRPPP  PPP  N   B    n       Pp p    b n pppp  p  r bkq  r
+011111
+18
+00 
+No
+C8E6
+ KR QBNRPPP   PP  N  PB    n       Pp p    b n pppp  p  r bkq  r
+011111
+19
+00 
+No
+C2C3
+ KR QBNRPPP   PP  N  PB            Ppnp    b n pppp  p  r bkq  r
+011111
+20
+00 
+No
+E4C5
+ KR QBNRPPP  BPP  N  P             Ppnp    b n pppp  p  r bkq  r
+011111
+21
+00 
+No
+B3C2
+ KR QBNRPPP  BPP  N  P   b         Ppnp      n pppp  p  r bkq  r
+011111
+22
+00 
+No
+E6G4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p         n  ppp pppprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R  KQBNRPPP PPPP  N        P       p  B      n  ppp pppprnbkqb r
+111111
+7
+00 
+No
+F1B5
+R  KQBNRPPP PPPP  N        P       p  B      n pppp ppp rnbkqb r
+111111
+8
+00 
+No
+A7A6
+R  KQBNRPPP PPPP  N        P   B   p         n pppp ppp rnbkqb r
+111111
+9
+00 
+No
+B5A4
+R  KQBNRPPP PPPP  N        P   B   p      n  n pppp ppp r bkqb r
+111111
+10
+00 
+No
+G8F6
+ KR QBNRPPP PPPP  N        P   B   p      n  n pppp ppp r bkqb r
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPPP PPPP  N        P   B   p      n  n ppppbppp r  kqb r
+011111
+12
+00 
+No
+F8E7
+ K RQBNRPPP PPPP  N        P   B   p      n  n ppppbppp r  kqb r
+011111
+13
+00 
+No
+F1E1
+ K RQBNRPPP PPPP  N        P   B   p  p   n  n ppppbpp  r  kqb r
+011111
+14
+00 
+No
+B7B5
+ K RQBNRPPP PPPP  N   B    P       p  p   n  n ppppbpp  r  kqb r
+011111
+15
+00 
+No
+A4B3
+ K RQBNRPPP PPPP  N   B    P       p  p   n pn ppppb p  r  kqb r
+011111
+16
+00 
+No
+D7D6
+ K RQBNRPPP P PP  N  PB    P       p  p   n pn ppppb p  r  kqb r
+011111
+17
+00 
+No
+C2C3
+ K RQBNRPPP P PP  N  PB    P       p  p   n pn ppppb p   kr qb r
+001111
+18
+00 
+No
+E8G8
+ K RQBNR PP P PPP N  PB    P       p  p   n pn ppppb p   kr qb r
+001111
+19
+00 
+No
+H2H3
+ K RQBNR PP P PPP N  PB    P       p  p   n pn ppppb pb  kr q  r
+001111
+20
+00 
+No
+C8B7
+ K RQBNR PP   PPP N  PB    PP      p  p   n pn ppppb pb  kr q  r
+001111
+21
+00 
+No
+D2D4
+ K RQBNR PP   PPP N  PB    PP      p  p   n pn ppppb pb  k rq  r
+001111
+22
+00 
+No
+F8E8
+ K RQB R PP N PPP N  PB    PP      p  p   n pn ppppb pb  k rq  r
+001111
+23
+00 
+No
+B1D2
+ K RQB R PP N PPP N  PB    PP      p  p   n pn pppp  pb  kbrq  r
+001111
+24
+00 
+No
+E7F8
+ K RQB R PP N P P N  PBP   PP      p  p   n pn pppp  pb  kbrq  r
+001111
+25
+00 
+No
+A2A3
+ K RQB R PP N P P N  PBP   PP      p  p p n pn p pp  pb  kbrq  r
+001111
+26
+00 
+No
+H7H6
+ K RQB R PP NBP P N  P P   PP      p  p p n pn p pp  pb  kbrq  r
+001111
+27
+00 
+No
+B3C2
+ K RQB R PP NBP P N  P P   PP      p  p p n p  p pp  pb  kbrq nr
+001111
+28
+00 
+No
+C6B8
+ K RQB R PP NB  P N  P P   PP P    p  p p n p  p pp  pb  kbrq nr
+001111
+29
+00 
+No
+B2B4
+ K RQB R PP NB  P N  P P   PP P    p  p p n p  p pp npb  kbrq  r
+001111
+30
+00 
+No
+B8D7
+ K RQ  R PP NBB P N  P P   PP P    p  p p n p  p pp npb  kbrq  r
+001111
+31
+00 
+No
+C1B2
+ K RQ  R PP NBB P N  P P   PP P    p  p ppn p  p  p npb  kbrq  r
+001111
+32
+00 
+No
+G7G6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R BKQBNRPPP PPPP           P       N      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+F3E5
+R BKQBNRPPP PPPP           P       N      n p   ppp  pppr bkqbnr
+111111
+8
+00 
+No
+D7D6
+R BKQBNRPPP PPPP  N        P              n p   ppp  pppr bkqbnr
+111111
+9
+00 
+No
+E5F3
+R BKQBNRPPP PPPP  N        n                p   ppp  pppr bkqbnr
+111111
+10
+00 
+No
+F6E4
+R BKQBNRPPP  PPP  N        nP               p   ppp  pppr bkqbnr
+111111
+11
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        nP       p           ppp  pppr bkqbnr
+111111
+12
+00 
+No
+D6D5
+R  KQBNRPPP  PPP  N B      nP       p           ppp  pppr bkqbnr
+111111
+13
+00 
+No
+F1D3
+R  KQBNRPPP  PPP  N B      nP       p        n  ppp  pppr bkqb r
+111111
+14
+00 
+No
+B8C6
+ KR QBNRPPP  PPP  N B      nP       p        n  ppp  pppr bkqb r
+011111
+15
+00 
+No
+E1G1
+ KR QBNRPPP  PPP  N B    b nP       p        n  ppp  pppr bkq  r
+011111
+16
+00 
+No
+C8G4
+ KR QBNRPPP   PP  N B    b nPP      p        n  ppp  pppr bkq  r
+011111
+17
+00 
+No
+C2C4
+ KR QBNRPPP   PP  N B    b  PP      p     n  n  ppp  pppr bkq  r
+011111
+18
+00 
+No
+E4F6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R BKQBNRPPP PPPP           P       N      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+F3E5
+R BKQBNRPPP PPPP           P       N      n p   ppp  pppr bkqbnr
+111111
+8
+00 
+No
+D7D6
+R BKQBNRPPP PPPP  N        P              n p   ppp  pppr bkqbnr
+111111
+9
+00 
+No
+E5F3
+R BKQBNRPPP PPPP  N        n                p   ppp  pppr bkqbnr
+111111
+10
+00 
+No
+F6E4
+R BKQBNRPPP  PPP  N        nP               p   ppp  pppr bkqbnr
+111111
+11
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        nP       p           ppp  pppr bkqbnr
+111111
+12
+00 
+No
+D6D5
+R  KQBNRPPP  PPP  N B      nP       p           ppp  pppr bkqbnr
+111111
+13
+00 
+No
+F1D3
+R  KQBNRPPP  PPP  N B      nP       p        n  ppp  pppr bkqb r
+111111
+14
+00 
+No
+B8C6
+ KR QBNRPPP  PPP  N B      nP       p        n  ppp  pppr bkqb r
+011111
+15
+00 
+No
+E1G1
+ KR QBNRPPP  PPP  N B      nP       p        n  pppb pppr  kqb r
+011111
+16
+00 
+No
+F8E7
+ KR QBNRPPP   PP  N B      nPP      p        n  pppb pppr  kqb r
+011111
+17
+00 
+No
+C2C4
+ KR QBNRPPP   PP  N B      nPPn     p           pppb pppr  kqb r
+011111
+18
+00 
+No
+C6B4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R BKQBNRPPP PPPP           P       N      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+F3E5
+R BKQBNRPPP PPPP           P       N      n p   ppp  pppr bkqbnr
+111111
+8
+00 
+No
+D7D6
+R BKQBNRPPP PPPP  N        P              n p   ppp  pppr bkqbnr
+111111
+9
+00 
+No
+E5F3
+R BKQBNRPPP PPPP  N        n                p   ppp  pppr bkqbnr
+111111
+10
+00 
+No
+F6E4
+R BKQB RPPP PPPP  N  N     n                p   ppp  pppr bkqbnr
+111111
+11
+00 
+No
+B1C3
+R BKQB RPPP PPPP  N  n                      p   ppp  pppr bkqbnr
+111111
+12
+00 
+No
+E4C3
+R BKQB RPPP  PPP  N  P                      p   ppp  pppr bkqbnr
+111111
+13
+00 
+No
+D2C3
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P       p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+R BKQBNRPPP PPPP  N        P       p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P       p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R BKQBNRPPP  PPP  N        PP      p      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        nP      p            ppp ppppr bkqbnr
+111111
+8
+00 
+No
+F6E4
+R  KQBNRPPP  PPP  N B      nP      p            ppp ppppr bkqbnr
+111111
+9
+00 
+No
+F1D3
+R  KQBNRPPP  PPP  N B      nP      pp           ppp  pppr bkqbnr
+111111
+10
+00 
+No
+D7D5
+R  KQBNRPPP  PPP    B      nP      Np           ppp  pppr bkqbnr
+111111
+11
+00 
+No
+F3E5
+R  KQBNRPPP  PPP    B      nP      Np           ppp npppr bkqb r
+111111
+12
+00 
+No
+B8D7
+R  KQBNRPPP  PPP    B      nP       p           ppp Npppr bkqb r
+111111
+13
+00 
+No
+E5D7
+R  KQBNRPPP  PPP    B      nP       p           ppp bpppr bkq  r
+111111
+14
+00 
+No
+C8D7
+ KR QBNRPPP  PPP    B      nP       p           ppp bpppr bkq  r
+011111
+15
+00 
+No
+E1G1
+ KR QBNRPPP  PPP    B      nP       p       b   ppp bpppr  kq  r
+011111
+16
+00 
+No
+F8D6
+ KR QBNRPPP   PP    B      nPP      p       b   ppp bpppr  kq  r
+011111
+17
+00 
+No
+C2C4
+ KR QBNRPPP   PP    B      nPP      p       bp  ppp b ppr  kq  r
+011111
+18
+00 
+No
+C7C6
+ KR QB RPPP   PP    BN     nPP      p       bp  ppp b ppr  kq  r
+011111
+19
+00 
+No
+B1C3
+ KR QB RPPP   PP    Bn      PP      p       bp  ppp b ppr  kq  r
+011111
+20
+00 
+No
+E4C3
+ KR QB RPPP    P    BP      PP      p       bp  ppp b ppr  kq  r
+011111
+21
+00 
+No
+B2C3
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+RNBKQBNRPPP P PP     P     P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+C2C3
+RNBKQBNRPPP P PP     P     P        pp          pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQBNRPPP P PP     P              Pp          pppp  pprnbkqbnr
+111111
+7
+00 
+No
+E4D5
+RNBKQBNRPPP P PP     P              qp          pppp  pprnbk bnr
+111111
+8
+00 
+No
+D8D5
+RNBKQBNRPPP   PP     P      P       qp          pppp  pprnbk bnr
+111111
+9
+00 
+No
+D2D4
+RNBKQBNRPPP   PP     P      P       qp     p    ppp   pprnbk bnr
+111111
+10
+00 
+No
+E7E6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+RNBKQBNRPPP P PP     P     P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+C2C3
+RNBKQBNRPPP P PP     P     P         p    n     ppppp ppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+RNBKQBNRPPP P PP     P             P p    n     ppppp ppr bkqbnr
+111111
+7
+00 
+No
+E4E5
+RNBKQBNRPPP P PP     P             Pnp          ppppp ppr bkqbnr
+111111
+8
+00 
+No
+F6D5
+RNBKQBNRPPP   PP     P      P      Pnp          ppppp ppr bkqbnr
+111111
+9
+00 
+No
+D2D4
+RNBKQBNRPPP   PP     P      p      Pn           ppppp ppr bkqbnr
+111111
+10
+00 
+No
+C5D4
+R BKQBNRPPP   PP  N  P      p      Pn           ppppp ppr bkqbnr
+111111
+11
+00 
+No
+G1F3
+R BKQBNRPPP   PP  N  P      p      Pn      p    ppp p ppr bkqbnr
+111111
+12
+00 
+No
+E7E6
+R BKQBNRPPP   PP  N         P      Pn      p    ppp p ppr bkqbnr
+111111
+13
+00 
+No
+C3D4
+R BKQBNRPPP   PP  N         P      Pn      p  p ppp p  pr bkqbnr
+111111
+14
+00 
+No
+B7B6
+R BKQB RPPP   PP  N  N      P      Pn      p  p ppp p  pr bkqbnr
+111111
+15
+00 
+No
+B1C3
+R BKQB RPPP   PP  N  n      P      P       p  p ppp p  pr bkqbnr
+111111
+16
+00 
+No
+D5C3
+R BKQB RPPP    P  N  P      P      P       p  p ppp p  pr bkqbnr
+111111
+17
+00 
+No
+B2C3
+R BKQB RPPP    P  N  P      P      P       p  p ppp pq pr bk bnr
+111111
+18
+00 
+No
+D8C7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+R BKQBNRPPP PPPP  N        P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P         p      p   pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D6
+R BKQBNRPPP  PPP  N        PP        p      p   pppp  pprnbkqbnr
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        Pp               p   pppp  pprnbkqbnr
+111111
+8
+00 
+No
+C5D4
+R BKQBNRPPP  PPP           PN               p   pppp  pprnbkqbnr
+111111
+9
+00 
+No
+F3D4
+R BKQBNRPPP  PPP           PN             n p   pppp  ppr bkqbnr
+111111
+10
+00 
+No
+G8F6
+R BKQB RPPP  PPP     N     PN             n p   pppp  ppr bkqbnr
+111111
+11
+00 
+No
+B1C3
+R BKQB RPPP  PPP     N     PN             n p  ppppp  p r bkqbnr
+111111
+12
+00 
+No
+A7A6
+R  KQB RPPPB PPP     N     PN             n p  ppppp  p r bkqbnr
+111111
+13
+00 
+No
+F1E2
+R  KQB RPPPB PPP     N     PN      p      n p  pppp   p r bkqbnr
+111111
+14
+00 
+No
+E7E5
+R  KQB RPPPB PPP     NN    P       p      n p  pppp   p r bkqbnr
+111111
+15
+00 
+No
+D4B3
+R  KQB RPPPB PPP     NN    P       p      n p  ppppb  p r  kqbnr
+111111
+16
+00 
+No
+F8E7
+ KR QB RPPPB PPP     NN    P       p      n p  ppppb  p r  kqbnr
+011111
+17
+00 
+No
+E1G1
+ KR QB RPPPB PPP     NN    P       p      n p  ppppb  p  kr qbnr
+001111
+18
+00 
+No
+E8G8
+ KR QB RPPPB PP      NN    P   P   p      n p  ppppb  p  kr qbnr
+001111
+19
+00 
+No
+A2A4
+ KR QB RPPPB PP      NN    P   P   p      n p pppppb     kr qbnr
+001111
+20
+00 
+No
+B7B6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+RNBKQB RPPP PPPP     N     P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPP PPPP     N     P         p       n  ppppp pprnbkqb r
+111111
+6
+00 
+No
+B8C6
+RNBKQB RP P PPPP P   N     P         p       n  ppppp pprnbkqb r
+111111
+7
+00 
+No
+G2G3
+RNBKQB RP P PPPP P   N     P         p   p   n  p ppp pprnbkqb r
+111111
+8
+00 
+No
+G7G6
+RN KQB RPBP PPPP P   N     P         p   p   n  p ppp pprnbkqb r
+111111
+9
+00 
+No
+F1G2
+RN KQB RPBP PPPP P   N     P         p   p   n  pbppp pprn kqb r
+111111
+10
+00 
+No
+F8G7
+RN KQB RPBP  PPP P  PN     P         p   p   n  pbppp pprn kqb r
+111111
+11
+00 
+No
+D2D3
+RN KQB RPBP  PPP P  PN     P         p   p p n  pbp p pprn kqb r
+111111
+12
+00 
+No
+E7E6
+RN KQ  RPBP  PPP P BPN     P         p   p p n  pbp p pprn kqb r
+111111
+13
+00 
+No
+C1E3
+RN KQ  RPBP  PPP P BPN     P         p   p ppn  pbp   pprn kqb r
+111111
+14
+00 
+No
+D7D6
+R  KQ  RPBPN PPP P BPN     P         p   p ppn  pbp   pprn kqb r
+111111
+15
+00 
+No
+G1E2
+R  KQ  RPBPN PPP P BPN     Pn        p   p pp   pbp   pprn kqb r
+111111
+16
+00 
+No
+C6D4
+R  K   RPBPNQPPP P BPN     Pn        p   p pp   pbp   pprn kqb r
+111111
+17
+00 
+No
+D1D2
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+R BKQBNRPPP PPPP  N        P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P         p      p   pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D6
+R BKQBNRPPP  PPP  N        PP        p      p   pppp  pprnbkqbnr
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        Pp               p   pppp  pprnbkqbnr
+111111
+8
+00 
+No
+C5D4
+R BKQBNRPPP  PPP           PN               p   pppp  pprnbkqbnr
+111111
+9
+00 
+No
+F3D4
+R BKQBNRPPP  PPP           PN             n p   pppp  ppr bkqbnr
+111111
+10
+00 
+No
+G8F6
+R BKQB RPPP  PPP     N     PN             n p   pppp  ppr bkqbnr
+111111
+11
+00 
+No
+B1C3
+R BKQB RPPP  PPP     N     PN             n p  ppppp  p r bkqbnr
+111111
+12
+00 
+No
+A7A6
+R BKQ  RPPP  PPP     N     PN    B        n p  ppppp  p r bkqbnr
+111111
+13
+00 
+No
+C1G5
+R BKQ  RPPP  PPP     N     PN    B        npp  pppp   p r bkqbnr
+111111
+14
+00 
+No
+E7E6
+R BK   RPPP QPPP     N     PN    B        npp  pppp   p r bkqbnr
+111111
+15
+00 
+No
+D1D2
+R BK   RPPP QPPP     N     PN    B        npp  ppppb  p r  kqbnr
+111111
+16
+00 
+No
+F8E7
+R B RK  PPP QPPP     N     PN    B        npp  ppppb  p r  kqbnr
+011111
+17
+00 
+No
+E1C1
+R B RK  PPP QPPP     N     PN    B        npp  ppppb  p  kr qbnr
+001111
+18
+00 
+No
+E8G8
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+R BKQBNRPPP PPPP  N        P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P         p      p   pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D6
+R BKQBNRPPP  PPP  N        PP        p      p   pppp  pprnbkqbnr
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        Pp               p   pppp  pprnbkqbnr
+111111
+8
+00 
+No
+C5D4
+R BKQBNRPPP  PPP           PN               p   pppp  pprnbkqbnr
+111111
+9
+00 
+No
+F3D4
+R BKQBNRPPP  PPP           PN             n p   pppp  ppr bkqbnr
+111111
+10
+00 
+No
+G8F6
+R BKQB RPPP  PPP     N     PN             n p   pppp  ppr bkqbnr
+111111
+11
+00 
+No
+B1C3
+R BKQB RPPP  PPP     N     PN             n p  ppppp  p r bkqbnr
+111111
+12
+00 
+No
+A7A6
+R BKQB RP P  PPP P   N     PN             n p  ppppp  p r bkqbnr
+111111
+13
+00 
+No
+G2G3
+R BKQB RP P  PPP P   N     PN      p      n p  pppp   p r bkqbnr
+111111
+14
+00 
+No
+E7E5
+R BKQB RP PN PPP P   N     P       p      n p  pppp   p r bkqbnr
+111111
+15
+00 
+No
+D4E2
+R BKQB RP PN PPP P   N     P       p  p   n p  pppp     r bkqbnr
+111111
+16
+00 
+No
+B7B5
+R  KQB RPBPN PPP P   N     P       p  p   n p  pppp     r bkqbnr
+111111
+17
+00 
+No
+F1G2
+R  KQB RPBPN PPP P   N     P       p  p   n p  pppp   b r bkq nr
+111111
+18
+00 
+No
+C8B7
+ KR QB RPBPN PPP P   N     P       p  p   n p  pppp   b r bkq nr
+011111
+19
+00 
+No
+E1G1
+ KR QB RPBPN PPP P   N     P       p  p   n p  pppp n b r bkq  r
+011111
+20
+00 
+No
+B8D7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+R BKQBNRPPP PPPP  N        P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P         p       n  ppppp pprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R BKQBNRPPP  PPP  N        PP        p       n  ppppp pprnbkqb r
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        Pp                n  ppppp pprnbkqb r
+111111
+8
+00 
+No
+C5D4
+R BKQBNRPPP  PPP           PN                n  ppppp pprnbkqb r
+111111
+9
+00 
+No
+F3D4
+R BKQBNRPPP  PPP           PN            p   n  p ppp pprnbkqb r
+111111
+10
+00 
+No
+G7G6
+R BKQB RPPP  PPP     N     PN            p   n  p ppp pprnbkqb r
+111111
+11
+00 
+No
+B1C3
+R BKQB RPPP  PPP     N     PN            p   n  pbppp pprn kqb r
+111111
+12
+00 
+No
+F8G7
+R BKQ  RPPP  PPP   B N     PN            p   n  pbppp pprn kqb r
+111111
+13
+00 
+No
+C1E3
+R BKQ  RPPP  PPP   B N     PN            pn  n  pbppp ppr  kqb r
+111111
+14
+00 
+No
+G8F6
+R  KQ  RPPP  PPP   B N     PNB           pn  n  pbppp ppr  kqb r
+111111
+15
+00 
+No
+F1C4
+R  KQ  RPPP  PPP   B N     PNB           pn  n  pbppp pp kr qb r
+101111
+16
+00 
+No
+E8G8
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+R BKQBNRPPP PPPP  N        P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P         p       n  ppppp pprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R BKQBNRPPP  PPP  N        PP        p       n  ppppp pprnbkqb r
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        Pp                n  ppppp pprnbkqb r
+111111
+8
+00 
+No
+C5D4
+R BKQBNRPPP  PPP           PN                n  ppppp pprnbkqb r
+111111
+9
+00 
+No
+F3D4
+R BKQBNRPPP  PPP           PN             n  n  ppppp ppr bkqb r
+111111
+10
+00 
+No
+G8F6
+R BKQB RPPP  PPP     N     PN             n  n  ppppp ppr bkqb r
+111111
+11
+00 
+No
+B1C3
+R BKQB RPPP  PPP     N     PN             n pn  pppp  ppr bkqb r
+111111
+12
+00 
+No
+D7D6
+R  KQB RPPPB PPP     N     PN             n pn  pppp  ppr bkqb r
+111111
+13
+00 
+No
+F1E2
+R  KQB RPPPB PPP     N     PN      p      n pn  ppp   ppr bkqb r
+111111
+14
+00 
+No
+E7E5
+R  KQB RPPPB PPP     NN    P       p      n pn  ppp   ppr bkqb r
+111111
+15
+00 
+No
+D4B3
+R  KQB RPPPB PPP     NN    P       p      n pn  pppb  ppr  kqb r
+111111
+16
+00 
+No
+F8E7
+ KR QB RPPPB PPP     NN    P       p      n pn  pppb  ppr  kqb r
+011111
+17
+00 
+No
+E1G1
+ KR QB RPPPB PPP     NN    P       p      n pn  pppb  pp kr qb r
+001111
+18
+00 
+No
+E8G8
+ KR Q  RPPPB PPP   B NN    P       p      n pn  pppb  pp kr qb r
+001111
+19
+00 
+No
+C1E3
+ KR Q  RPPPB PPP   B NN    P       p      nbpn  pppb  pp kr q  r
+001111
+20
+00 
+No
+C8E6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P         p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+R BKQBNRPPP PPPP  N        P         p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPP PPPP  N        P         p       n  ppppp pprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R BKQBNRPPP  PPP  N        PP        p       n  ppppp pprnbkqb r
+111111
+7
+00 
+No
+D2D4
+R BKQBNRPPP  PPP  N        Pp                n  ppppp pprnbkqb r
+111111
+8
+00 
+No
+C5D4
+R BKQBNRPPP  PPP           PN                n  ppppp pprnbkqb r
+111111
+9
+00 
+No
+F3D4
+R BKQBNRPPP  PPP           PN             n  n  ppppp ppr bkqb r
+111111
+10
+00 
+No
+G8F6
+R BKQB RPPP  PPP     N     PN             n  n  ppppp ppr bkqb r
+111111
+11
+00 
+No
+B1C3
+R BKQB RPPP  PPP     N     PN             n pn  pppp  ppr bkqb r
+111111
+12
+00 
+No
+D7D6
+R  KQB RPPPB PPP     N     PN             n pn  pppp  ppr bkqb r
+111111
+13
+00 
+No
+F1E2
+R  KQB RPPPB PPP     N     PN            pn pn  p pp  ppr bkqb r
+111111
+14
+00 
+No
+G7G6
+R  KQ  RPPPB PPP   B N     PN            pn pn  p pp  ppr bkqb r
+111111
+15
+00 
+No
+C1E3
+R  KQ  RPPPB PPP   B N     PN            pn pn  pbpp  ppr  kqb r
+111111
+16
+00 
+No
+F8G7
+ KR Q  RPPPB PPP   B N     PN            pn pn  pbpp  ppr  kqb r
+011111
+17
+00 
+No
+E1G1
+ KR Q  RPPPB PPP   B N     PN            pn pn  pbpp  pp kr qb r
+001111
+18
+00 
+No
+E8G8
+ KR Q  RPPPB PPP   B NN    P             pn pn  pbpp  pp kr qb r
+001111
+19
+00 
+No
+D4B3
+ KR Q  RPPPB PPP   B NN    P             pnbpn  pbpp  pp kr q  r
+001111
+20
+00 
+No
+C8E6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQBNRPPP  PPP            P      Pp      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+E4E5
+RNBKQBNRPPP  PPP            P      Ppp     p    ppp   pprnbkqbnr
+111111
+8
+00 
+No
+C7C5
+RNBKQBNRPPP   PP     P      P      Ppp     p    ppp   pprnbkqbnr
+111111
+9
+00 
+No
+C2C3
+RNBKQBNRPPP   PP     P      P      Ppp     p n  ppp   pprnbkqb r
+111111
+10
+00 
+No
+B8C6
+R BKQBNRPPP   PP  N  P      P      Ppp     p n  ppp   pprnbkqb r
+111111
+11
+00 
+No
+G1F3
+R BKQBNRPPP   PP  N  P      P      Ppp     p nq ppp   pprnbk b r
+111111
+12
+00 
+No
+D8B6
+R BKQBNRPPP   P   N  P P    P      Ppp     p nq ppp   pprnbk b r
+111111
+13
+00 
+No
+A2A3
+R BKQBNRPPP   P   N  P P    Pp     Pp      p nq ppp   pprnbk b r
+111111
+14
+00 
+No
+C5C4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     PP       p     np    ppp  pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+RNBKQ  RPPP  PPP     N     PP    B  p     np    ppp  pppr bkqbnr
+111111
+9
+00 
+No
+C1G5
+RNBKQ  RPPP  PPP     N     PP    B  p     np    pppb pppr  kqbnr
+111111
+10
+00 
+No
+F8E7
+RNBKQ  RPPP  PPP     N      P    B Pp     np    pppb pppr  kqbnr
+111111
+11
+00 
+No
+E4E5
+RNBKQ  RPPP  PPP     N      P    B Pp      p    pppbnpppr  kqbnr
+111111
+12
+00 
+No
+F6D7
+RNBKQ  RPPP  PPP     N      P      Pp      p    pppBnpppr  kqbnr
+111111
+13
+00 
+No
+G5E7
+RNBKQ  RPPP  PPP     N      P      Pp      p    pppqnpppr  k bnr
+111111
+14
+00 
+No
+D8E7
+RNBKQ  RPP   PPP     N    P P      Pp      p    pppqnpppr  k bnr
+111111
+15
+00 
+No
+F2F4
+RNBKQ  RPP   PPP     N    P P      Pp      p    pppqnppp kr  bnr
+101111
+16
+00 
+No
+E8G8
+RNBK   RPP  QPPP     N    P P      Pp      p    pppqnppp kr  bnr
+101111
+17
+00 
+No
+D1D2
+RNBK   RPP  QPPP     N    P P      Ppp     p    pppqn pp kr  bnr
+101111
+18
+00 
+No
+C7C5
+R BK   RPP  QPPP  N  N    P P      Ppp     p    pppqn pp kr  bnr
+101111
+19
+00 
+No
+G1F3
+R BK   RPP  QPPP  N  N    P P      Ppp     p n  pppqn pp kr  b r
+101111
+20
+00 
+No
+B8C6
+R B RK  PP  QPPP  N  N    P P      Ppp     p n  pppqn pp kr  b r
+001111
+21
+00 
+No
+E1C1
+R B RK  PP  QPPP  N  N    P Pp     Pp      p n  pppqn pp kr  b r
+001111
+22
+00 
+No
+C5C4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     pP              p    ppp  ppprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP              p    ppp  ppprnbkqbnr
+111111
+9
+00 
+No
+C3E4
+RNBKQB RPPP  PPP           NP              p    ppp nppprnbkqb r
+111111
+10
+00 
+No
+B8D7
+R BKQB RPPP  PPP  N        NP              p    ppp nppprnbkqb r
+111111
+11
+00 
+No
+G1F3
+R BKQB RPPP  PPP  N        NP             np    ppp npppr bkqb r
+111111
+12
+00 
+No
+G8F6
+R BKQB RPPP  PPP  N         P             Np    ppp npppr bkqb r
+111111
+13
+00 
+No
+E4F6
+R BKQB RPPP  PPP  N         P             np    ppp  pppr bkqb r
+111111
+14
+00 
+No
+D7F6
+R  KQB RPPP  PPP  N B       P             np    ppp  pppr bkqb r
+111111
+15
+00 
+No
+F1D3
+R  KQB RPPP  PPP  N B       P             np  p ppp  p pr bkqb r
+111111
+16
+00 
+No
+B7B6
+R  K B RPPPQ PPP  N B       P             np  p ppp  p pr bkqb r
+111111
+17
+00 
+No
+D1E2
+R  K B RPPPQ PPP  N B       P             np  p ppp  pbpr bkq  r
+111111
+18
+00 
+No
+C8B7
+R  K   RPPPQ PPP  N B       P    B        np  p ppp  pbpr bkq  r
+111111
+19
+00 
+No
+C1G5
+R  K   RPPPQ PPP  N B       P    B        np  p pppb pbpr  kq  r
+111111
+20
+00 
+No
+F8E7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     PP b     p      p    ppp  ppprn kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBKQB RPPP  PPP     N      P b    Pp      p    ppp  ppprn kqbnr
+111111
+9
+00 
+No
+E4E5
+RNBKQB RPPP  PPP     N      P b    Pp      p    pppn pppr  kqbnr
+111111
+10
+00 
+No
+G8E7
+RNBKQB RPPP  PP      N P    P b    Pp      p    pppn pppr  kqbnr
+111111
+11
+00 
+No
+A2A3
+RNBKQB RPPP  PP      b P    P      Pp      p    pppn pppr  kqbnr
+111111
+12
+00 
+No
+B4C3
+RNBKQB RPPP  P       P P    P      Pp      p    pppn pppr  kqbnr
+111111
+13
+00 
+No
+B2C3
+RNBKQB RPPP  P       P P    P      Ppp     p    pppn  ppr  kqbnr
+111111
+14
+00 
+No
+C7C5
+R BKQB RPPP  P    N  P P    P      Ppp     p    pppn  ppr  kqbnr
+111111
+15
+00 
+No
+G1F3
+R BKQB RPPP  P    N  P P    P      Ppp     p n  pppn  ppr  kqb r
+111111
+16
+00 
+No
+B8C6
+R BKQB RPPP  P    N  P      P  P   Ppp     p n  pppn  ppr  kqb r
+111111
+17
+00 
+No
+A3A4
+R BKQB RPPP  P    N  P      P  P   Ppp q   p n  pppn  ppr  k b r
+111111
+18
+00 
+No
+D8A5
+R BK B RPPP QP    N  P      P  P   Ppp q   p n  pppn  ppr  k b r
+111111
+19
+00 
+No
+D1D2
+R BK B RPPP QP    N  P      P  P   Ppp q   p n  pppnb ppr  k   r
+111111
+20
+00 
+No
+C8D7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     PP b     p      p    ppp  ppprn kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBKQB RPPP  PPP     N      P b    Pp      p    ppp  ppprn kqbnr
+111111
+9
+00 
+No
+E4E5
+RNBKQB RPPP  PPP     N      P b    Pp      p    pppn pppr  kqbnr
+111111
+10
+00 
+No
+G8E7
+RNBKQB RPPP  PP      N P    P b    Pp      p    pppn pppr  kqbnr
+111111
+11
+00 
+No
+A2A3
+RNBKQB RPPP  PP      b P    P      Pp      p    pppn pppr  kqbnr
+111111
+12
+00 
+No
+B4C3
+RNBKQB RPPP  P       P P    P      Pp      p    pppn pppr  kqbnr
+111111
+13
+00 
+No
+B2C3
+RNBKQB RPPP  P       P P    P      Ppp     p    pppn  ppr  kqbnr
+111111
+14
+00 
+No
+C7C5
+RNBKQB RPPP  P       P      P  P   Ppp     p    pppn  ppr  kqbnr
+111111
+15
+00 
+No
+A3A4
+RNBKQB RPPP  P       P      P  P   Ppp     p n  pppn  ppr  kqb r
+111111
+16
+00 
+No
+B8C6
+R BKQB RPPP  P    N  P      P  P   Ppp     p n  pppn  ppr  kqb r
+111111
+17
+00 
+No
+G1F3
+R BKQB RPPP  P    N  P      P  P   Ppp q   p n  pppn  ppr  k b r
+111111
+18
+00 
+No
+D8A5
+R BKQ  RPPP BP    N  P      P  P   Ppp q   p n  pppn  ppr  k b r
+111111
+19
+00 
+No
+C1D2
+R BKQ  RPPP BP    N  P      P  P   Ppp q   p n  pppnb ppr  k   r
+111111
+20
+00 
+No
+C8D7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     PP b     p      p    ppp  ppprn kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBKQB RPPP  PPP     N      P b    Pp      p    ppp  ppprn kqbnr
+111111
+9
+00 
+No
+E4E5
+RNBKQB RPPP  PPP     N      P b    Ppp     p    ppp   pprn kqbnr
+111111
+10
+00 
+No
+C7C5
+RNBKQB RPPP  PP      N P    P b    Ppp     p    ppp   pprn kqbnr
+111111
+11
+00 
+No
+A2A3
+RNBKQB RPPP  PP      b P    P      Ppp     p    ppp   pprn kqbnr
+111111
+12
+00 
+No
+B4C3
+RNBKQB RPPP  P       P P    P      Ppp     p    ppp   pprn kqbnr
+111111
+13
+00 
+No
+B2C3
+RNBKQB RPPP  P       P P    P      Ppp     p    pppn  ppr  kqbnr
+111111
+14
+00 
+No
+G8E7
+RNBK B RPPP  P       P P Q  P      Ppp     p    pppn  ppr  kqbnr
+111111
+15
+00 
+No
+D1G4
+RNBK B RPPP  P       P P Q  P      Ppp     p    pppn qppr  k bnr
+111111
+16
+00 
+No
+D8C7
+RNBK B RPPP  P       P P    P      Ppp     p    pQpn qppr  k bnr
+111111
+17
+00 
+No
+G4G7
+RNBK B RPPP  P       P P    P      Ppp     p    pQpn qpp r k bnr
+111110
+18
+00 
+No
+H8G8
+RNBK B RPPP  P       P P    P      Ppp     p    Q pn qpp r k bnr
+111110
+19
+00 
+No
+G7H7
+RNBK B RPPP  P       P P    p      Pp      p    Q pn qpp r k bnr
+111110
+20
+00 
+No
+C5D4
+R BK B RPPPN P       P P    p      Pp      p    Q pn qpp r k bnr
+111110
+21
+00 
+No
+G1E2
+R BK B RPPPN P       P P    p      Pp      p n  Q pn qpp r k b r
+111110
+22
+00 
+No
+B8C6
+R BK B RPP N P       P P  P p      Pp      p n  Q pn qpp r k b r
+111110
+23
+00 
+No
+F2F4
+R BK B RPP N P       P P  P p      Pp      p n  Q pnbqpp r k   r
+111110
+24
+00 
+No
+C8D7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP NPPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1D2
+RNBKQB RPPP NPPP           PP       pp     p    ppp   pprnbkqbnr
+111111
+8
+00 
+No
+C7C5
+RNBKQB RPPP NPPP            P       Pp     p    ppp   pprnbkqbnr
+111111
+9
+00 
+No
+E4D5
+RNBKQB RPPP NPPP            P       pp          ppp   pprnbkqbnr
+111111
+10
+00 
+No
+E6D5
+R BKQB RPPP NPPP  N         P       pp          ppp   pprnbkqbnr
+111111
+11
+00 
+No
+G1F3
+R BKQB RPPP NPPP  N         P       pp       n  ppp   pprnbkqb r
+111111
+12
+00 
+No
+B8C6
+R  KQB RPPP NPPP  N         P       ppB      n  ppp   pprnbkqb r
+111111
+13
+00 
+No
+F1B5
+R  KQB RPPP NPPP  N         P       ppB     bn  ppp   pprn kqb r
+111111
+14
+00 
+No
+F8D6
+R  KQB RPPP NPPP  N                 pPB     bn  ppp   pprn kqb r
+111111
+15
+00 
+No
+D4C5
+R  KQB RPPP NPPP  N                 pbB      n  ppp   pprn kqb r
+111111
+16
+00 
+No
+D6C5
+ KR QB RPPP NPPP  N                 pbB      n  ppp   pprn kqb r
+011111
+17
+00 
+No
+E1G1
+ KR QB RPPP NPPP  N                 pbB      n  pppn  ppr  kqb r
+011111
+18
+00 
+No
+G8E7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP NPPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1D2
+RNBKQB RPPP NPPP           PP       pp     p    ppp   pprnbkqbnr
+111111
+8
+00 
+No
+C7C5
+R BKQB RPPP NPPP  N        PP       pp     p    ppp   pprnbkqbnr
+111111
+9
+00 
+No
+G1F3
+R BKQB RPPP NPPP  N        PP       pp    np    ppp   ppr bkqbnr
+111111
+10
+00 
+No
+G8F6
+R BKQB RPPP NPPP  N         P       Pp    np    ppp   ppr bkqbnr
+111111
+11
+00 
+No
+E4D5
+R BKQB RPPP NPPP  N         P       pp    n     ppp   ppr bkqbnr
+111111
+12
+00 
+No
+E6D5
+R  KQB RPPP NPPP  N         P       ppB   n     ppp   ppr bkqbnr
+111111
+13
+00 
+No
+F1B5
+R  KQB RPPP NPPP  N         P       ppB   n     ppp b ppr bkq nr
+111111
+14
+00 
+No
+C8D7
+R  KQB RPPP NPPP  N         P       pp    n     ppp B ppr bkq nr
+111111
+15
+00 
+No
+B5D7
+R  KQB RPPP NPPP  N         P       pp    n     ppp n ppr bkq  r
+111111
+16
+00 
+No
+B8D7
+ KR QB RPPP NPPP  N         P       pp    n     ppp n ppr bkq  r
+011111
+17
+00 
+No
+E1G1
+ KR QB RPPP NPPP  N         P       pp    n     pppbn ppr  kq  r
+011111
+18
+00 
+No
+F8E7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P               p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPP  PPP           PP              p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP NPPP           PP       p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1D2
+RNBKQB RPPP NPPP           PP       p     np    ppp  pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+RNBKQB RPPP NPPP            P      Pp     np    ppp  pppr bkqbnr
+111111
+9
+00 
+No
+E4E5
+RNBKQB RPPP NPPP            P      Pp      p    ppp npppr bkqbnr
+111111
+10
+00 
+No
+F6D7
+RN KQB RPPP NPPP    B       P      Pp      p    ppp npppr bkqbnr
+111111
+11
+00 
+No
+F1D3
+RN KQB RPPP NPPP    B       P      Ppp     p    ppp n ppr bkqbnr
+111111
+12
+00 
+No
+C7C5
+RN KQB RPPP N PP    BP      P      Ppp     p    ppp n ppr bkqbnr
+111111
+13
+00 
+No
+C2C3
+RN KQB RPPP N PP    BP      P      Ppp     p n  ppp n ppr bkqb r
+111111
+14
+00 
+No
+B8C6
+R  KQB RPPPNN PP    BP      P      Ppp     p n  ppp n ppr bkqb r
+111111
+15
+00 
+No
+G1E2
+R  KQB RPPPNN PP    BP      p      Pp      p n  ppp n ppr bkqb r
+111111
+16
+00 
+No
+C5D4
+R  KQB RPPPNN PP    B       P      Pp      p n  ppp n ppr bkqb r
+111111
+17
+00 
+No
+C3D4
+R  KQB RPPPNN PP    B       P      Pp     pp n  pp  n ppr bkqb r
+111111
+18
+00 
+No
+F7F6
+R  KQB RPPPNN PP    B       P       p     Pp n  pp  n ppr bkqb r
+111111
+19
+00 
+No
+E5F6
+R  KQB RPPPNN PP    B       P       p     np n  pp    ppr bkqb r
+111111
+20
+00 
+No
+D7F6
+ KR QB RPPPNN PP    B       P       p     np n  pp    ppr bkqb r
+011111
+21
+00 
+No
+E1G1
+ KR QB RPPPNN PP    B       P       p     npbn  pp    ppr  kqb r
+011111
+22
+00 
+No
+F8D6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     pP                p  pppp  pprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP                p  pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C3E4
+RNBKQB RPPP  PPP           NP                p  ppppn pprnbkqb r
+111111
+10
+00 
+No
+B8D7
+R BKQB RPPP  PPP  N        NP                p  ppppn pprnbkqb r
+111111
+11
+00 
+No
+G1F3
+R BKQB RPPP  PPP  N        NP             n  p  ppppn ppr bkqb r
+111111
+12
+00 
+No
+G8F6
+R BKQB RPPP  PPP  N         P             N  p  ppppn ppr bkqb r
+111111
+13
+00 
+No
+E4F6
+R BKQB RPPP  PPP  N         P             n  p  pppp  ppr bkqb r
+111111
+14
+00 
+No
+D7F6
+R BKQB RPPP  PPP            P      N      n  p  pppp  ppr bkqb r
+111111
+15
+00 
+No
+F3E5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQB RPPP PPPP     N     P                 p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPP PPPP     N     P        p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+D2D4
+RNBKQB RPPP  PPP     N     pP                p  pppp  pprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP                p  pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C3E4
+RNBKQB RPPP  PPP           NP                p  ppppn pprnbkqb r
+111111
+10
+00 
+No
+B8D7
+RN KQB RPPP  PPP           NPB               p  ppppn pprnbkqb r
+111111
+11
+00 
+No
+F1C4
+RN KQB RPPP  PPP           NPB            n  p  ppppn ppr bkqb r
+111111
+12
+00 
+No
+G8F6
+RN KQB RPPP  PPP            PB   N        n  p  ppppn ppr bkqb r
+111111
+13
+00 
+No
+E4G5
+RN KQB RPPP  PPP            PB   N        np p  ppp n ppr bkqb r
+111111
+14
+00 
+No
+E7E6
+RN K B RPPPQ PPP            PB   N        np p  ppp n ppr bkqb r
+111111
+15
+00 
+No
+D1E2
+RN K B RPPPQ PPP            PB   N        np pn ppp   ppr bkqb r
+111111
+16
+00 
+No
+D7B6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQB RPPP PPPP     N     P                 p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPP PPPP     N     P        p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+D2D4
+RNBKQB RPPP  PPP     N     pP                p  pppp  pprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP                p  pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C3E4
+RNBKQB RPPP  PPP           NP                p  ppppn pprnbkqb r
+111111
+10
+00 
+No
+B8D7
+RNBKQB RPPP  PPP            P    N           p  ppppn pprnbkqb r
+111111
+11
+00 
+No
+E4G5
+RNBKQB RPPP  PPP            P    N        n  p  ppppn ppr bkqb r
+111111
+12
+00 
+No
+G8F6
+RN KQB RPPP  PPP    B       P    N        n  p  ppppn ppr bkqb r
+111111
+13
+00 
+No
+F1D3
+RN KQB RPPP  PPP    B       P    N        np p  ppp n ppr bkqb r
+111111
+14
+00 
+No
+E7E6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     pP                p  pppp  pprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP                p  pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C3E4
+RNBKQB RPPP  PPP           NP     b          p  pppp  pprnbkq nr
+111111
+10
+00 
+No
+C8F5
+RNBKQB RPPP  PPP N          P     b          p  pppp  pprnbkq nr
+111111
+11
+00 
+No
+E4G3
+RNBKQB RPPP  PPP N          P            b   p  pppp  pprnbkq nr
+111111
+12
+00 
+No
+F5G6
+RNBKQB R PP  PPP N      P   P            b   p  pppp  pprnbkq nr
+111111
+13
+00 
+No
+H2H4
+RNBKQB R PP  PPP N      P   P           pb   p   ppp  pprnbkq nr
+111111
+14
+00 
+No
+H7H6
+R BKQB R PP  PPP NN     P   P           pb   p   ppp  pprnbkq nr
+111111
+15
+00 
+No
+G1F3
+R BKQB R PP  PPP NN     P   P           pbn  p   ppp  ppr bkq nr
+111111
+16
+00 
+No
+G8F6
+R BKQB R PP  PPP N      P   P      N    pbn  p   ppp  ppr bkq nr
+111111
+17
+00 
+No
+F3E5
+R BKQB R PP  PPP N      P   P      N    p n  p  bppp  ppr bkq nr
+111111
+18
+00 
+No
+G6H7
+R  KQB R PP  PPP N  B   P   P      N    p n  p  bppp  ppr bkq nr
+111111
+19
+00 
+No
+F1D3
+R  KQB R PP  PPP N  B   P   P      N    p n  p  bpppn ppr bkq  r
+111111
+20
+00 
+No
+B8D7
+R  KQB R PP  PPP N      P   P      N    p n  p  Bpppn ppr bkq  r
+111111
+21
+00 
+No
+D3H7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     pP                p  pppp  pprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP                p  pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C3E4
+RNBKQB RPPP  PPP           NP     b          p  pppp  pprnbkq nr
+111111
+10
+00 
+No
+C8F5
+RNBKQB RPPP  PPP N          P     b          p  pppp  pprnbkq nr
+111111
+11
+00 
+No
+E4G3
+RNBKQB RPPP  PPP N          P            b   p  pppp  pprnbkq nr
+111111
+12
+00 
+No
+F5G6
+RNBKQB R PP  PPP N      P   P            b   p  pppp  pprnbkq nr
+111111
+13
+00 
+No
+H2H4
+RNBKQB R PP  PPP N      P   P           pb   p   ppp  pprnbkq nr
+111111
+14
+00 
+No
+H7H6
+R BKQB R PP  PPP NN     P   P           pb   p   ppp  pprnbkq nr
+111111
+15
+00 
+No
+G1F3
+R BKQB R PP  PPP NN     P   P           pb   p   pppn pprnbkq  r
+111111
+16
+00 
+No
+B8D7
+R BKQB R PP  PPP NN         P   P       pb   p   pppn pprnbkq  r
+111111
+17
+00 
+No
+H4H5
+R BKQB R PP  PPP NN         P   P       p    p  bpppn pprnbkq  r
+111111
+18
+00 
+No
+G6H7
+R  KQB R PP  PPP NN B       P   P       p    p  bpppn pprnbkq  r
+111111
+19
+00 
+No
+F1D3
+R  KQB R PP  PPP NN b       P   P       p    p   pppn pprnbkq  r
+111111
+20
+00 
+No
+H7D3
+R  K B R PP  PPP NN Q       P   P       p    p   pppn pprnbkq  r
+111111
+21
+00 
+No
+D1D3
+R  K B R PP  PPP NN Q       P   P       p n  p   pppn ppr bkq  r
+111111
+22
+00 
+No
+G8F6
+R  K   R PP BPPP NN Q       P   P       p n  p   pppn ppr bkq  r
+111111
+23
+00 
+No
+C1D2
+R  K   R PP BPPP NN Q       P   P       p np p   pp n ppr bkq  r
+111111
+24
+00 
+No
+E7E6
+R   RK   PP BPPP NN Q       P   P       p np p   pp n ppr bkq  r
+011111
+25
+00 
+No
+E1C1
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     pP                p  pppp  pprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP                p  pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C3E4
+RNBKQB RPPP  PPP           NP     b          p  pppp  pprnbkq nr
+111111
+10
+00 
+No
+C8F5
+RNBKQB RPPP  PPP N          P     b          p  pppp  pprnbkq nr
+111111
+11
+00 
+No
+E4G3
+RNBKQB RPPP  PPP N          P            b   p  pppp  pprnbkq nr
+111111
+12
+00 
+No
+F5G6
+RNBKQB R PP  PPP N      P   P            b   p  pppp  pprnbkq nr
+111111
+13
+00 
+No
+H2H4
+RNBKQB R PP  PPP N      P   P           pb   p   ppp  pprnbkq nr
+111111
+14
+00 
+No
+H7H6
+R BKQB R PP  PPP NN     P   P           pb   p   ppp  pprnbkq nr
+111111
+15
+00 
+No
+G1F3
+R BKQB R PP  PPP NN     P   P           pb   p   pppn pprnbkq  r
+111111
+16
+00 
+No
+B8D7
+R BKQB R PP  PPP NN         P   P       pb   p   pppn pprnbkq  r
+111111
+17
+00 
+No
+H4H5
+R BKQB R PP  PPP NN         P   P       p    p  bpppn pprnbkq  r
+111111
+18
+00 
+No
+G6H7
+R  KQB R PP  PPP NN B       P   P       p    p  bpppn pprnbkq  r
+111111
+19
+00 
+No
+F1D3
+R  KQB R PP  PPP NN b       P   P       p    p   pppn pprnbkq  r
+111111
+20
+00 
+No
+H7D3
+R  K B R PP  PPP NN Q       P   P       p    p   pppn pprnbkq  r
+111111
+21
+00 
+No
+D1D3
+R  K B R PP  PPP NN Q       P   P       p  p p   pp n pprnbkq  r
+111111
+22
+00 
+No
+E7E6
+R  K   R PP BPPP NN Q       P   P       p  p p   pp n pprnbkq  r
+111111
+23
+00 
+No
+C1D2
+R  K   R PP BPPP NN Q       P   P       p np p   pp n ppr bkq  r
+111111
+24
+00 
+No
+G8F6
+R   RK   PP BPPP NN Q       P   P       p np p   pp n ppr bkq  r
+011111
+25
+00 
+No
+E1C1
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP  PPP     N     PP       p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     pP                p  pppp  pprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP                p  pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C3E4
+RNBKQB RPPP  PPP           NP     b          p  pppp  pprnbkq nr
+111111
+10
+00 
+No
+C8F5
+RNBKQB RPPP  PPP N          P     b          p  pppp  pprnbkq nr
+111111
+11
+00 
+No
+E4G3
+RNBKQB RPPP  PPP N          P            b   p  pppp  pprnbkq nr
+111111
+12
+00 
+No
+F5G6
+R BKQB RPPP  PPP NN         P            b   p  pppp  pprnbkq nr
+111111
+13
+00 
+No
+G1F3
+R BKQB RPPP  PPP NN         P            b   p  ppppn pprnbkq  r
+111111
+14
+00 
+No
+B8D7
+R BKQB R PP  PPP NN     P   P            b   p  ppppn pprnbkq  r
+111111
+15
+00 
+No
+H2H4
+R BKQB R PP  PPP NN     P   P           pb   p   pppn pprnbkq  r
+111111
+16
+00 
+No
+H7H6
+R  KQB R PP  PPP NN B   P   P           pb   p   pppn pprnbkq  r
+111111
+17
+00 
+No
+F1D3
+R  KQB R PP  PPP NN b   P   P           p    p   pppn pprnbkq  r
+111111
+18
+00 
+No
+G6D3
+R  K B R PP  PPP NN Q   P   P           p    p   pppn pprnbkq  r
+111111
+19
+00 
+No
+D1D3
+R  K B R PP  PPP NN Q   P   P           p  p p   pp n pprnbkq  r
+111111
+20
+00 
+No
+E7E6
+R  K   R PP BPPP NN Q   P   P           p  p p   pp n pprnbkq  r
+111111
+21
+00 
+No
+C1D2
+R  K   R PP BPPP NN Q   P   P           p np p   pp n ppr bkq  r
+111111
+22
+00 
+No
+G8F6
+R   RK   PP BPPP NN Q   P   P           p np p   pp n ppr bkq  r
+011111
+23
+00 
+No
+E1C1
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPP NPPP           PP       p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+B1D2
+RNBKQB RPPP NPPP           pP                p  pppp  pprnbkqbnr
+111111
+8
+00 
+No
+D5E4
+RNBKQB RPPP  PPP           NP                p  pppp  pprnbkqbnr
+111111
+9
+00 
+No
+D2E4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQBNRPPP  PPP            P       P        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+E4D5
+RNBKQBNRPPP  PPP            P       p           pppp  pprnbkqbnr
+111111
+8
+00 
+No
+C6D5
+RNBKQBNRPPP   PP            PP      p           pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C2C4
+RNBKQBNRPPP   PP            PP      p     n     pppp  ppr bkqbnr
+111111
+10
+00 
+No
+G8F6
+RNBKQB RPPP   PP     N      PP      p     n     pppp  ppr bkqbnr
+111111
+11
+00 
+No
+B1C3
+RNBKQB RPPP   PP     N      PP      p     np    ppp   ppr bkqbnr
+111111
+12
+00 
+No
+E7E6
+R BKQB RPPP   PP  N  N      PP      p     np    ppp   ppr bkqbnr
+111111
+13
+00 
+No
+G1F3
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQBNRPPP  PPP            P       P        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+E4D5
+RNBKQBNRPPP  PPP            P       p           pppp  pprnbkqbnr
+111111
+8
+00 
+No
+C6D5
+RNBKQBNRPPP   PP            PP      p           pppp  pprnbkqbnr
+111111
+9
+00 
+No
+C2C4
+RNBKQBNRPPP   PP            PP      p     n     pppp  ppr bkqbnr
+111111
+10
+00 
+No
+G8F6
+RNBKQB RPPP   PP     N      PP      p     n     pppp  ppr bkqbnr
+111111
+11
+00 
+No
+B1C3
+RNBKQB RPPP   PP     N      PP      p     n  n  pppp  ppr bkqb r
+111111
+12
+00 
+No
+B8C6
+RNBKQ  RPPP   PP     N      PP   B  p     n  n  pppp  ppr bkqb r
+111111
+13
+00 
+No
+C1G5
+RNBKQ  RPPP   PP     N      PP   B  p     np n  ppp   ppr bkqb r
+111111
+14
+00 
+No
+E7E6
+RNBKQ  RPPP   PP     N      P    B  pP    np n  ppp   ppr bkqb r
+111111
+15
+00 
+No
+C4C5
+RNBKQ  RPPP   PP     N      P    B  pP    np n  pppb  ppr  kqb r
+111111
+16
+00 
+No
+F8E7
+RN KQ  RPPP   PP     N      P    B  pPB   np n  pppb  ppr  kqb r
+111111
+17
+00 
+No
+F1B5
+RN KQ  RPPP   PP     N      P    B  pPB   np n  pppb  pp kr qb r
+101111
+18
+00 
+No
+E8G8
+R  KQ  RPPP   PP  N  N      P    B  pPB   np n  pppb  pp kr qb r
+101111
+19
+00 
+No
+G1F3
+R  KQ  RPPP   PP  N  N     nP    B  pPB    p n  pppb  pp kr qb r
+101111
+20
+00 
+No
+F6E4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQBNRPPP  PPP           PP                p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP       p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQBNRPPP  PPP            P      Pp        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+E4E5
+RNBKQBNRPPP  PPP            P     bPp        p  pppp  pprnbkq nr
+111111
+8
+00 
+No
+C8F5
+RN KQBNRPPP  PPP    B       P     bPp        p  pppp  pprnbkq nr
+111111
+9
+00 
+No
+F1D3
+RN KQBNRPPP  PPP    b       P      Pp        p  pppp  pprnbkq nr
+111111
+10
+00 
+No
+F5D3
+RN K BNRPPP  PPP    Q       P      Pp        p  pppp  pprnbkq nr
+111111
+11
+00 
+No
+D1D3
+RN K BNRPPP  PPP    Q       P      Pp      p p  ppp   pprnbkq nr
+111111
+12
+00 
+No
+E7E6
+RN K B RPPP  PPP    QN      P      Pp      p p  ppp   pprnbkq nr
+111111
+13
+00 
+No
+B1C3
+RN K B RPPP  PPP    QN      P      Pp      p pq ppp   pprnbk  nr
+111111
+14
+00 
+No
+D8B6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                 p  ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C6
+RNBKQB RPPP PPPP     N     P                 p  ppppp pprnbkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPP PPPP     N     P        p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+R BKQB RPPP PPPP  N  N     P        p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQB RPPP PPPP  N  N   b P        p        p  pppp  pprnbkq nr
+111111
+8
+00 
+No
+C8G4
+R BKQB R PP PPPPP N  N   b P        p        p  pppp  pprnbkq nr
+111111
+9
+00 
+No
+H2H3
+R BKQB R PP PPPPP b  N     P        p        p  pppp  pprnbkq nr
+111111
+10
+00 
+No
+G4F3
+R BK B R PP PPPPP Q  N     P        p        p  pppp  pprnbkq nr
+111111
+11
+00 
+No
+D1F3
+R BK B R PP PPPPP Q  N     P        p      p p  ppp   pprnbkq nr
+111111
+12
+00 
+No
+E7E6
+R BK B R PP  PPPP Q  N     PP       p      p p  ppp   pprnbkq nr
+111111
+13
+00 
+No
+D2D4
+R BK B R PP  PPPP Q  N     PP       p     np p  ppp   ppr bkq nr
+111111
+14
+00 
+No
+G8F6
+R  K B R PP  PPPP Q BN     PP       p     np p  ppp   ppr bkq nr
+111111
+15
+00 
+No
+F1D3
+R  K B R PP  PPPP Q BN     pP             np p  ppp   ppr bkq nr
+111111
+16
+00 
+No
+D5E4
+R  K B R PP  PPPP Q B      NP             np p  ppp   ppr bkq nr
+111111
+17
+00 
+No
+C3E4
+R  K B R PP  PPPP Q B      Nq             np p  ppp   ppr bk  nr
+111111
+18
+00 
+No
+D8D4
+R  K B R PP   PPP Q BP     Nq             np p  ppp   ppr bk  nr
+111111
+19
+00 
+No
+C2C3
+R  K B R PP   PPP Q BP     N              np p  ppp   ppr bkq nr
+111111
+20
+00 
+No
+D4D8
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P               p   pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D6
+RNBKQBNRPPP  PPP           PP               p   pppp ppprnbkqbnr
+111111
+5
+00 
+No
+E2E4
+RNBKQBNRPPP  PPP           PP             n p   pppp pppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+RNBKQB RPPP  PPP     N     PP             n p   pppp pppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     PP            pn p   p pp pppr bkqbnr
+111111
+8
+00 
+No
+G7G6
+RN KQB RPPP  PPP     N     PPB           pn p   p pp pppr bkqbnr
+111111
+9
+00 
+No
+F1C4
+RN KQB RPPP  PPP     N     PPB           pn pp  p pp  ppr bkqbnr
+111111
+10
+00 
+No
+C7C6
+RN K B RPPPQ PPP     N     PPB           pn pp  p pp  ppr bkqbnr
+111111
+11
+00 
+No
+D1E2
+RN K B RPPPQ PPP     N     PPB           pn pp  pbpp  ppr  kqbnr
+111111
+12
+00 
+No
+F8G7
+R  K B RPPPQ PPP  N  N     PPB           pn pp  pbpp  ppr  kqbnr
+111111
+13
+00 
+No
+G1F3
+R  K B RPPPQ PPP  N  N     PPB           pn pp  pbpp  pp kr qbnr
+101111
+14
+00 
+No
+E8G8
+R  K   RPPPQ PPP  N  N     PPB   B       pn pp  pbpp  pp kr qbnr
+101111
+15
+00 
+No
+C1G5
+R  K   RPPPQ PPP  N  N     PPB   B    p  pn pp  pbpp   p kr qbnr
+101111
+16
+00 
+No
+B7B5
+R  K   RPPPQ PPP  N BN     PP    B    p  pn pp  pbpp   p kr qbnr
+101111
+17
+00 
+No
+C4D3
+R  K   RPPPQ PPP  N BN     PP    B    p  pn pp  pbpp q p kr  bnr
+101111
+18
+00 
+No
+D8C7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                p   pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D6
+RNBKQBNRPPP  PPP           PP               p   pppp ppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP             n p   pppp pppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+RNBKQB RPPP  PPP     N     PP             n p   pppp pppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     PP            pn p   p pp pppr bkqbnr
+111111
+8
+00 
+No
+G7G6
+RNBKQ  RPPP  PPP     N     PP    B       pn p   p pp pppr bkqbnr
+111111
+9
+00 
+No
+C1G5
+RNBKQ  RPPP  PPP     N     PP    B       pn p   pbpp pppr  kqbnr
+111111
+10
+00 
+No
+F8G7
+RNBK   RPPP QPPP     N     PP    B       pn p   pbpp pppr  kqbnr
+111111
+11
+00 
+No
+D1D2
+RNBK   RPPP QPPP     N     PP    B       pn p   pbppnpppr  kqb r
+111111
+12
+00 
+No
+B8D7
+RNB RK  PPP QPPP     N     PP    B       pn p   pbppnpppr  kqb r
+011111
+13
+00 
+No
+E1C1
+RNB RK  PPP QPPP     N     PP    B p     pn p   pbp npppr  kqb r
+011111
+14
+00 
+No
+E7E5
+RNB RK  PPP QPPP     N     P     B P     pn p   pbp npppr  kqb r
+011111
+15
+00 
+No
+D4E5
+RNB RK  PPP QPPP     N     P     B p     pn     pbp npppr  kqb r
+011111
+16
+00 
+No
+D6E5
+R B RK  PPP QPPP  N  N     P     B p     pn     pbp npppr  kqb r
+011111
+17
+00 
+No
+G1F3
+R B RK  PPP QPPP  N  N     P     B p    ppn      bp npppr  kqb r
+011111
+18
+00 
+No
+H7H6
+R B RK  PPP QPPP  N  N  B  P       p    ppn      bp npppr  kqb r
+011111
+19
+00 
+No
+G5H4
+R B RK  PPP QPPP  N  N  B  P     p p    p n      bp npppr  kqb r
+011111
+20
+00 
+No
+G6G5
+R B RK  PPP QPPP BN  N     P     p p    p n      bp npppr  kqb r
+011111
+21
+00 
+No
+H4G3
+R B RK  PPP QPPP BN  N     P     p p    p n      bpqnpppr  k b r
+011111
+22
+00 
+No
+D8E7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+RNBKQBNRPPPP  PP            PP      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            Pp                  pppp ppprnbkqbnr
+111111
+6
+00 
+No
+D5C4
+R BKQBNRPPPP  PP  N         Pp                  pppp ppprnbkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQBNRPPPP  PP  N         Pp            n     pppp pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+R BKQBNRPPP   PP  NP        Pp            n     pppp pppr bkqbnr
+111111
+9
+00 
+No
+E2E3
+R BKQBNRPPP   PP  NP        Pp            np    ppp  pppr bkqbnr
+111111
+10
+00 
+No
+E7E6
+R  KQBNRPPP   PP  NP        PB            np    ppp  pppr bkqbnr
+111111
+11
+00 
+No
+F1C4
+R  KQBNRPPP   PP  NP        PB       p    np    ppp   ppr bkqbnr
+111111
+12
+00 
+No
+C7C5
+ KR QBNRPPP   PP  NP        PB       p    np    ppp   ppr bkqbnr
+011111
+13
+00 
+No
+E1G1
+ KR QBNRPPP   PP  NP        PB       p    np   pppp   p r bkqbnr
+011111
+14
+00 
+No
+A7A6
+ KR  BNRPPPQ  PP  NP        PB       p    np   pppp   p r bkqbnr
+011111
+15
+00 
+No
+D1E2
+ KR  BNRPPPQ  PP  NP        PB       pp   np   pppp     r bkqbnr
+011111
+16
+00 
+No
+B7B5
+ KR  BNRPPPQ  PP  NPB       P        pp   np   pppp     r bkqbnr
+011111
+17
+00 
+No
+C4D3
+ KR  BNRPPPQ  PP  NPB       p         p   np   pppp     r bkqbnr
+011111
+18
+00 
+No
+C5D4
+ KR  BNRPPPQ  PP  N B       P         p   np   pppp     r bkqbnr
+011111
+19
+00 
+No
+E3D4
+ KR  BNRPPPQ  PP  N B       P         p   np n pppp     r bkqb r
+011111
+20
+00 
+No
+B8C6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+RNBKQBNRPPPP  PP            PP      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP      p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP      p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      p      p    pppb ppprn kqbnr
+111111
+8
+00 
+No
+F8E7
+R BKQB RPPPP  PP  N  N      PP      p      p    pppb ppprn kqbnr
+111111
+9
+00 
+No
+G1F3
+R BKQB RPPPP  PP  N  N      PP      p     np    pppb pppr  kqbnr
+111111
+10
+00 
+No
+G8F6
+R BKQB RPPPP  PP  N  N      P       P     np    pppb pppr  kqbnr
+111111
+11
+00 
+No
+C4D5
+R BKQB RPPPP  PP  N  N      P       p     n     pppb pppr  kqbnr
+111111
+12
+00 
+No
+E6D5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPPP PP             P                  pppppppprnbkqbnr
+111111
+3
+00 
+No
+C2C4
+RNBKQBNRPPPPP PP             P             p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPPP  PP            PP             p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPPP  PP            PP      p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPPP  PP     N      PP      p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      pp     p    ppp   pprnbkqbnr
+111111
+8
+00 
+No
+C7C5
+RNBKQB RPPPP  PP     N      P       Pp     p    ppp   pprnbkqbnr
+111111
+9
+00 
+No
+C4D5
+RNBKQB RPPPP  PP     N      P       pp          ppp   pprnbkqbnr
+111111
+10
+00 
+No
+E6D5
+R BKQB RPPPP  PP  N  N      P       pp          ppp   pprnbkqbnr
+111111
+11
+00 
+No
+G1F3
+R BKQB RPPPP  PP  N  N      P       pp       n  ppp   pprnbkqb r
+111111
+12
+00 
+No
+B8C6
+R BKQB RP PP  PP PN  N      P       pp       n  ppp   pprnbkqb r
+111111
+13
+00 
+No
+G2G3
+R BKQB RP PP  PP PN  N      P       pp    n  n  ppp   ppr bkqb r
+111111
+14
+00 
+No
+G8F6
+R  KQB RPBPP  PP PN  N      P       pp    n  n  ppp   ppr bkqb r
+111111
+15
+00 
+No
+F1G2
+R  KQB RPBPP  PP PN  N      P       pp    n  n  pppb  ppr  kqb r
+111111
+16
+00 
+No
+F8E7
+ KR QB RPBPP  PP PN  N      P       pp    n  n  pppb  ppr  kqb r
+011111
+17
+00 
+No
+E1G1
+ KR QB RPBPP  PP PN  N      P       pp    n  n  pppb  pp kr qb r
+001111
+18
+00 
+No
+E8G8
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPPP PP             P                  pppppppprnbkqbnr
+111111
+3
+00 
+No
+C2C4
+RNBKQBNRPPPPP PP             P             p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQB RPPPPP PP     N       P             p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPPPP PP     N       P      p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPPP  PP     N      PP      p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+D2D4
+RNBKQB RPPPP  PP     N      PP      p     np    ppp  pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+RNBKQ  RPPPP  PP     N      PP   B  p     np    ppp  pppr bkqbnr
+111111
+9
+00 
+No
+C1G5
+RNBKQ  RPPPP  PP     N      PP   B  p     np    pppb pppr  kqbnr
+111111
+10
+00 
+No
+F8E7
+RNBKQ  RPPP   PP   P N      PP   B  p     np    pppb pppr  kqbnr
+111111
+11
+00 
+No
+E2E3
+RNBKQ  RPPP   PP   P N      PP   B  p     np    pppb ppp kr qbnr
+101111
+12
+00 
+No
+E8G8
+R BKQ  RPPP   PP  NP N      PP   B  p     np    pppb ppp kr qbnr
+101111
+13
+00 
+No
+G1F3
+R BKQ  RPPP   PP  NP N      PP   B  p     np    pppbnppp kr qb r
+101111
+14
+00 
+No
+B8D7
+R BKQR  PPP   PP  NP N      PP   B  p     np    pppbnppp kr qb r
+100111
+15
+00 
+No
+A1C1
+R BKQR  PPP   PP  NP N      PP   B  p     np p  pppbn pp kr qb r
+100111
+16
+00 
+No
+C7C6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+RNBKQBNRPPPP  PP            PP      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP      p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP      p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      p     np    ppp  pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+RNBKQ  RPPPP  PP     N      PP   B  p     np    ppp  pppr bkqbnr
+111111
+9
+00 
+No
+C1G5
+RNBKQ  RPPPP  PP     N      PP   B  p     np    ppp npppr bkqb r
+111111
+10
+00 
+No
+B8D7
+RNBKQ  RPPPP  PP     N      P    B  P     np    ppp npppr bkqb r
+111111
+11
+00 
+No
+C4D5
+RNBKQ  RPPPP  PP     N      P    B  p     n     ppp npppr bkqb r
+111111
+12
+00 
+No
+E6D5
+RNBKQ  RPPP   PP   P N      P    B  p     n     ppp npppr bkqb r
+111111
+13
+00 
+No
+E2E3
+RNBKQ  RPPP   PP   P N      P    B  p     n  p  ppp n ppr bkqb r
+111111
+14
+00 
+No
+C7C6
+RN KQ  RPPP   PP   PBN      P    B  p     n  p  ppp n ppr bkqb r
+111111
+15
+00 
+No
+F1D3
+RN KQ  RPPP   PP   PBN      P    B  p     n  p  pppbn ppr  kqb r
+111111
+16
+00 
+No
+F8E7
+RN K   RPPP  QPP   PBN      P    B  p     n  p  pppbn ppr  kqb r
+111111
+17
+00 
+No
+D1C2
+RN K   RPPP  QPP   PBN      P    B  p     n  p  pppbn pp kr qb r
+101111
+18
+00 
+No
+E8G8
+R  K   RPPPN QPP   PBN      P    B  p     n  p  pppbn pp kr qb r
+101111
+19
+00 
+No
+G1E2
+R  K   RPPPN QPP   PBN      P    B  p     n  p  pppbn pp k rqb r
+101111
+20
+00 
+No
+F8E8
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+RNBKQBNRPPPP  PP            PP      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP      p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP      p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      p     np    ppp  pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+RNBKQ  RPPPP  PP     N      PP   B  p     np    ppp  pppr bkqbnr
+111111
+9
+00 
+No
+C1G5
+RNBKQ  RPPPP  PP     N      PP   B  p     np    ppp npppr bkqb r
+111111
+10
+00 
+No
+B8D7
+RNBKQ  RPPP   PP   P N      PP   B  p     np    ppp npppr bkqb r
+111111
+11
+00 
+No
+E2E3
+RNBKQ  RPPP   PP   P N      PP   B  p     np p  ppp n ppr bkqb r
+111111
+12
+00 
+No
+C7C6
+R BKQ  RPPP   PP  NP N      PP   B  p     np p  ppp n ppr bkqb r
+111111
+13
+00 
+No
+G1F3
+R BKQ  RPPP   PP  NP N      PP   B  p  q  np p  ppp n ppr bk b r
+111111
+14
+00 
+No
+D8A5
+R BKQ  RPPP N PP   P N      PP   B  p  q  np p  ppp n ppr bk b r
+111111
+15
+00 
+No
+F3D2
+R BKQ  RPPP N PP   P N      PPb  B  p  q  np p  ppp n ppr  k b r
+111111
+16
+00 
+No
+F8B4
+R BK   RPPP NQPP   P N      PPb  B  p  q  np p  ppp n ppr  k b r
+111111
+17
+00 
+No
+D1C2
+R BK   RPPP NQPP   P N      PPb  B  p  q  np p  ppp n pp kr  b r
+101111
+18
+00 
+No
+E8G8
+R BK   RPPP NQPP   P N  B   PPb     p  q  np p  ppp n pp kr  b r
+101111
+19
+00 
+No
+G5H4
+R BK   RPPP NQPP   P N  B   PPb     pp q  np    ppp n pp kr  b r
+101111
+20
+00 
+No
+C6C5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+RNBKQBNRPPPP  PP            PP      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP      p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP      p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      p     np    ppp  pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+R BKQB RPPPP  PP  N  N      PP      p     np    ppp  pppr bkqbnr
+111111
+9
+00 
+No
+G1F3
+R BKQB RPPPP  PP  N  N      PP      p     np    pppb pppr  kqbnr
+111111
+10
+00 
+No
+F8E7
+R BKQB RPPPP  PP  N  N      P       P     np    pppb pppr  kqbnr
+111111
+11
+00 
+No
+C4D5
+R BKQB RPPPP  PP  N  N      P       p     n     pppb pppr  kqbnr
+111111
+12
+00 
+No
+E6D5
+R BKQ  RPPPP  PP  N  N      P    B  p     n     pppb pppr  kqbnr
+111111
+13
+00 
+No
+C1G5
+R BKQ  RPPPP  PP  N  N      P    B  p     n     pppb ppp kr qbnr
+101111
+14
+00 
+No
+E8G8
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+RNBKQBNRPPPP  PP            PP      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP      p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+C7C6
+RNBKQB RPPPP  PP     N      PP      p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      p     n  p  pppp  ppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+R BKQB RPPPP  PP  N  N      PP      p     n  p  pppp  ppr bkqbnr
+111111
+9
+00 
+No
+G1F3
+R BKQB RPPPP  PP  N  N      Pp            n  p  pppp  ppr bkqbnr
+111111
+10
+00 
+No
+D5C4
+R BKQB RPPPP  P   N  N      Pp P          n  p  pppp  ppr bkqbnr
+111111
+11
+00 
+No
+A2A4
+R BKQB RPPPP  P   N  N      Pp P  b       n  p  pppp  ppr bkq nr
+111111
+12
+00 
+No
+C8F5
+R BKQB RPPPP  P      N      Pp P  bN      n  p  pppp  ppr bkq nr
+111111
+13
+00 
+No
+F3E5
+R BKQB RPPPP  P      N      Pp P  bN      np p  ppp   ppr bkq nr
+111111
+14
+00 
+No
+E7E6
+R BKQB RPP P  P   P  N      Pp P  bN      np p  ppp   ppr bkq nr
+111111
+15
+00 
+No
+F2F3
+R BKQB RPP P  P   P  N      PpbP  bN      np p  ppp   ppr  kq nr
+111111
+16
+00 
+No
+F8B4
+R BKQ  RPP P  P   P  N      PpbP BbN      np p  ppp   ppr  kq nr
+111111
+17
+00 
+No
+C1G5
+R BKQ  RPP P  P   P  N      PpbP BbN    p np p   pp   ppr  kq nr
+111111
+18
+00 
+No
+H7H6
+R BKQ  RPP P  P   P  N      PpbP  bN    p Bp p   pp   ppr  kq nr
+111111
+19
+00 
+No
+G5F6
+R BKQ  RPP P  P   P  N      PpbP  bN    p qp p   pp   ppr  k  nr
+111111
+20
+00 
+No
+D8F6
+R BKQ  RPP    P   P  N     PPpbP  bN    p qp p   pp   ppr  k  nr
+111111
+21
+00 
+No
+E2E4
+R BKQ  RPP    P   P  N     PPpbP   N    p qp p  bpp   ppr  k  nr
+111111
+22
+00 
+No
+F5H7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+RNBKQBNRPPPP  PP            PP      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP      p        p  pppp  pprnbkqbnr
+111111
+6
+00 
+No
+C7C6
+R BKQBNRPPPP  PP  N         PP      p        p  pppp  pprnbkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQBNRPPPP  PP  N         PP      p     n  p  pppp  ppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+R BKQB RPPPP  PP  N  N      PP      p     n  p  pppp  ppr bkqbnr
+111111
+9
+00 
+No
+B1C3
+R BKQB RPPPP  PP  N  N      PP      p     np p  ppp   ppr bkqbnr
+111111
+10
+00 
+No
+E7E6
+R BKQB RPPP   PP  NP N      PP      p     np p  ppp   ppr bkqbnr
+111111
+11
+00 
+No
+E2E3
+R BKQB RPPP   PP  NP N      PP      p     np p  ppp n ppr bkqb r
+111111
+12
+00 
+No
+B8D7
+R  KQB RPPP   PP  NPBN      PP      p     np p  ppp n ppr bkqb r
+111111
+13
+00 
+No
+F1D3
+R  KQB RPPP   PP  NPBN      PP      p     npbp  ppp n ppr  kqb r
+111111
+14
+00 
+No
+F8D6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P              p    ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E6
+RNBKQBNRPPPP  PP            PP             p    ppp pppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP      p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQBNRP PP  PP P          PP      p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+G2G3
+RNBKQBNRP PP  PP P          PP      p     np    ppp  pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+R BKQBNRP PP  PP PN         PP      p     np    ppp  pppr bkqbnr
+111111
+9
+00 
+No
+G1F3
+R BKQBNRP PP  PP PN         PP      p     np    pppb pppr  kqbnr
+111111
+10
+00 
+No
+F8E7
+R  KQBNRPBPP  PP PN         PP      p     np    pppb pppr  kqbnr
+111111
+11
+00 
+No
+F1G2
+R  KQBNRPBPP  PP PN         PP      p     np    pppb ppp kr qbnr
+101111
+12
+00 
+No
+E8G8
+ KR QBNRPBPP  PP PN         PP      p     np    pppb ppp kr qbnr
+001111
+13
+00 
+No
+E1G1
+ KR QBNRPBPP  PP PN         PP      p      p    pppbnppp kr qbnr
+001111
+14
+00 
+No
+F6D7
+ KR  BNRPBPP QPP PN         PP      p      p    pppbnppp kr qbnr
+001111
+15
+00 
+No
+D1C2
+ KR  BNRPBPP QPP PN         PP      p      p p  pppbn pp kr qbnr
+001111
+16
+00 
+No
+C7C6
+ KR  B RPBPPNQPP PN         PP      p      p p  pppbn pp kr qbnr
+001111
+17
+00 
+No
+B1D2
+ KR  B RPBPPNQPP PN         PP      p      p pp pppbn  p kr qbnr
+001111
+18
+00 
+No
+B7B6
+ KR  B RPBP NQPP PN        PPP      p      p pp pppbn  p kr qbnr
+001111
+19
+00 
+No
+E2E4
+ KR  B RPBP NQPP PN        PPP      p      p pp pppbn bp kr q nr
+001111
+20
+00 
+No
+C8B7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PPb           np    ppp ppppr  kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBK B RPPPP QPP     N      PPb           np    ppp ppppr  kqbnr
+111111
+9
+00 
+No
+D1C2
+RNBK B RPPPP QPP     N      PPb      p    np    ppp p ppr  kqbnr
+111111
+10
+00 
+No
+C7C5
+RNBK B RPPPP QPP     N       Pb      P    np    ppp p ppr  kqbnr
+111111
+11
+00 
+No
+D4C5
+RNBK B RPPPP QPP     N       Pb      P    np    ppp p pp kr qbnr
+101111
+12
+00 
+No
+E8G8
+RNBK B RPPPP QP      N P     Pb      P    np    ppp p pp kr qbnr
+101111
+13
+00 
+No
+A2A3
+RNBK B RPPPP QP      N P     P       b    np    ppp p pp kr qbnr
+101111
+14
+00 
+No
+B4C5
+R BK B RPPPP QP   N  N P     P       b    np    ppp p pp kr qbnr
+101111
+15
+00 
+No
+G1F3
+R BK B RPPPP QP   N  N P     P       b    np  p ppp p  p kr qbnr
+101111
+16
+00 
+No
+B7B6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PPb           np    ppp ppppr  kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBK B RPPPP QPP     N      PPb           np    ppp ppppr  kqbnr
+111111
+9
+00 
+No
+D1C2
+RNBK B RPPPP QPP     N      PPb           np    ppp pppp kr qbnr
+101111
+10
+00 
+No
+E8G8
+RNBK B RPPPP QP      N P    PPb           np    ppp pppp kr qbnr
+101111
+11
+00 
+No
+A2A3
+RNBK B RPPPP QP      b P    PP            np    ppp pppp kr qbnr
+101111
+12
+00 
+No
+B4C3
+RNBK B RPPPP  P      Q P    PP            np    ppp pppp kr qbnr
+101111
+13
+00 
+No
+C2C3
+RNBK B RPPPP  P      Q P    PP            np  p ppp pp p kr qbnr
+101111
+14
+00 
+No
+B7B6
+RNBK   RPPPP  P      Q P    PP   B        np  p ppp pp p kr qbnr
+101111
+15
+00 
+No
+C1G5
+RNBK   RPPPP  P      Q P    PP   B        np  p ppp ppbp kr q nr
+101111
+16
+00 
+No
+C8B7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PPb           np    ppp ppppr  kqbnr
+111111
+8
+00 
+No
+F8B4
+R BKQB RPPPP  PP  N  N      PPb           np    ppp ppppr  kqbnr
+111111
+9
+00 
+No
+G1F3
+R BKQB RPPPP  PP  N  N      PPb           np  p ppp pp pr  kqbnr
+111111
+10
+00 
+No
+B7B6
+R BKQB RP PP  PP PN  N      PPb           np  p ppp pp pr  kqbnr
+111111
+11
+00 
+No
+G2G3
+R BKQB RP PP  PP PN  N      PPb           np  p ppp ppbpr  kq nr
+111111
+12
+00 
+No
+C8B7
+R  KQB RPBPP  PP PN  N      PPb           np  p ppp ppbpr  kq nr
+111111
+13
+00 
+No
+F1G2
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PPb           np    ppp ppppr  kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBKQB RPPPP  P      N P    PPb           np    ppp ppppr  kqbnr
+111111
+9
+00 
+No
+A2A3
+RNBKQB RPPPP  P      b P    PP            np    ppp ppppr  kqbnr
+111111
+10
+00 
+No
+B4C3
+RNBKQB RPPPP         P P    PP            np    ppp ppppr  kqbnr
+111111
+11
+00 
+No
+B2C3
+RNBKQB RPPPP         P P    PP            np    ppp pppp kr qbnr
+101111
+12
+00 
+No
+E8G8
+RNBKQB RPP P      P  P P    PP            np    ppp pppp kr qbnr
+101111
+13
+00 
+No
+F2F3
+RNBKQB RPP P      P  P P    PP      p     np    ppp  ppp kr qbnr
+101111
+14
+00 
+No
+D7D5
+RNBKQB RPP P      P  P P    P       P     np    ppp  ppp kr qbnr
+101111
+15
+00 
+No
+C4D5
+RNBKQB RPP P      P  P P    P       p     n     ppp  ppp kr qbnr
+101111
+16
+00 
+No
+E6D5
+RNBKQB RPP        PP P P    P       p     n     ppp  ppp kr qbnr
+101111
+17
+00 
+No
+E2E3
+RNBKQB RPP        PP P P    P     b p     n     ppp  ppp kr q nr
+101111
+18
+00 
+No
+C8F5
+R BKQB RPP N      PP P P    P     b p     n     ppp  ppp kr q nr
+101111
+19
+00 
+No
+G1E2
+R BKQB RPP N      PP P P    P     b p     n     ppp nppp kr q  r
+101111
+20
+00 
+No
+B8D7
+R BKQB RPP       NPP P P    P     b p     n     ppp nppp kr q  r
+101111
+21
+00 
+No
+E2G3
+R BKQB RPP       NPP P P    P       p    bn     ppp nppp kr q  r
+101111
+22
+00 
+No
+F5G6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PPb           np    ppp ppppr  kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBKQ  RPPPPB PP     N      PPb           np    ppp ppppr  kqbnr
+111111
+9
+00 
+No
+C1D2
+RNBKQ  RPPPPB PP     N      PPb           np    ppp pppp kr qbnr
+101111
+10
+00 
+No
+E8G8
+RNBKQ  RPPP B PP   P N      PPb           np    ppp pppp kr qbnr
+101111
+11
+00 
+No
+E2E3
+RNBKQ  RPPP B PP   P N      PPb     p     np    ppp  ppp kr qbnr
+101111
+12
+00 
+No
+D7D5
+R BKQ  RPPP B PP  NP N      PPb     p     np    ppp  ppp kr qbnr
+101111
+13
+00 
+No
+G1F3
+R BKQ  RPPP B PP  NP N      PPb     pp    np    ppp   pp kr qbnr
+101111
+14
+00 
+No
+C7C5
+R BKQ  RPPP B P   NP N P    PPb     pp    np    ppp   pp kr qbnr
+101111
+15
+00 
+No
+A2A3
+R BKQ  RPPP B P   NP b P    PP      pp    np    ppp   pp kr qbnr
+101111
+16
+00 
+No
+B4C3
+R BKQ  RPPP   P   NP B P    PP      pp    np    ppp   pp kr qbnr
+101111
+17
+00 
+No
+D2C3
+R BKQ  RPPP   P   NP B P   nPP      pp     p    ppp   pp kr qbnr
+101111
+18
+00 
+No
+F6E4
+R BKQR  PPP   P   NP B P   nPP      pp     p    ppp   pp kr qbnr
+100111
+19
+00 
+No
+A1C1
+R BKQR  PPP   P   NP n P    PP      pp     p    ppp   pp kr qbnr
+100111
+20
+00 
+No
+E4C3
+R BKQ   PPP   P   NP R P    PP      pp     p    ppp   pp kr qbnr
+100111
+21
+00 
+No
+C1C3
+R BKQ   PPP   P   NP R P    pP      p      p    ppp   pp kr qbnr
+100111
+22
+00 
+No
+C5D4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PPb           np    ppp ppppr  kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBKQB RPPP   PP   P N      PPb           np    ppp ppppr  kqbnr
+111111
+9
+00 
+No
+E2E3
+RNBKQB RPPP   PP   P N      PPb           np    ppp pppp kr qbnr
+101111
+10
+00 
+No
+E8G8
+RN KQB RPPP   PP   PBN      PPb           np    ppp pppp kr qbnr
+101111
+11
+00 
+No
+F1D3
+RN KQB RPPP   PP   PBN      PPb     p     np    ppp  ppp kr qbnr
+101111
+12
+00 
+No
+D7D5
+R  KQB RPPP   PP  NPBN      PPb     p     np    ppp  ppp kr qbnr
+101111
+13
+00 
+No
+G1F3
+R  KQB RPPP   PP  NPBN      PPb     pp    np    ppp   pp kr qbnr
+101111
+14
+00 
+No
+C7C5
+ KR QB RPPP   PP  NPBN      PPb     pp    np    ppp   pp kr qbnr
+001111
+15
+00 
+No
+E1G1
+ KR QB RPPP   PP  NPBN      PPb     pp    np n  ppp   pp kr qb r
+001111
+16
+00 
+No
+B8C6
+ KR QB RPPP   P   NPBN P    PPb     pp    np n  ppp   pp kr qb r
+001111
+17
+00 
+No
+A2A3
+ KR QB RPPP   P   NPBb P    PP      pp    np n  ppp   pp kr qb r
+001111
+18
+00 
+No
+B4C3
+ KR QB RPPP       NPBP P    PP      pp    np n  ppp   pp kr qb r
+001111
+19
+00 
+No
+B2C3
+ KR QB RPPP       NPBP P    Pp       p    np n  ppp   pp kr qb r
+001111
+20
+00 
+No
+D5C4
+ KR QB RPPP       NP P P    PB       p    np n  ppp   pp kr qb r
+001111
+21
+00 
+No
+D3C4
+ KR QB RPPP       NP P P    PB       p    np n  ppp  qpp kr  b r
+001111
+22
+00 
+No
+D8C7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N      PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PPb           np    ppp ppppr  kqbnr
+111111
+8
+00 
+No
+F8B4
+RNBK B RPPPP QPP     N      PPb           np    ppp ppppr  kqbnr
+111111
+9
+00 
+No
+D1C2
+RNBK B RPPPP QPP     N      PPb     p     np    ppp  pppr  kqbnr
+111111
+10
+00 
+No
+D7D5
+RNBK B RPPPP QP      N P    PPb     p     np    ppp  pppr  kqbnr
+111111
+11
+00 
+No
+A2A3
+RNBK B RPPPP QP      b P    PP      p     np    ppp  pppr  kqbnr
+111111
+12
+00 
+No
+B4C3
+RNBK B RPPPP  P      Q P    PP      p     np    ppp  pppr  kqbnr
+111111
+13
+00 
+No
+C2C3
+RNBK B RPPPP  P      Q P    PP      p     np n  ppp  pppr  kqb r
+111111
+14
+00 
+No
+B8C6
+R BK B RPPPP  P   N  Q P    PP      p     np n  ppp  pppr  kqb r
+111111
+15
+00 
+No
+G1F3
+R BK B RPPPP  P   N  Q P   nPP      p      p n  ppp  pppr  kqb r
+111111
+16
+00 
+No
+F6E4
+R BK B RPPPP  P   N   QP   nPP      p      p n  ppp  pppr  kqb r
+111111
+17
+00 
+No
+C3B3
+R BK B RPPPP  P   N   QP   nPP      p  n   p    ppp  pppr  kqb r
+111111
+18
+00 
+No
+C6A5
+R BK B RPPPP  P   N    P   nPP Q    p  n   p    ppp  pppr  kqb r
+111111
+19
+00 
+No
+B3A4
+R BK B RPPPP  P   N    P   nPP Q    p  n   p p  ppp   ppr  kqb r
+111111
+20
+00 
+No
+C7C6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+R BKQBNRPPPP  PP  N         PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQBNRPPPP  PP  N         PP            np  p ppp pp pr bkqbnr
+111111
+8
+00 
+No
+B7B6
+R BKQBNRP PP  PP PN         PP            np  p ppp pp pr bkqbnr
+111111
+9
+00 
+No
+G2G3
+R BKQBNRP PP  PP PN         PP            np  p ppp ppbpr bkq nr
+111111
+10
+00 
+No
+C8B7
+R  KQBNRPBPP  PP PN         PP            np  p ppp ppbpr bkq nr
+111111
+11
+00 
+No
+F1G2
+R  KQBNRPBPP  PP PN         PP            np  p pppbppbpr  kq nr
+111111
+12
+00 
+No
+F8E7
+ KR QBNRPBPP  PP PN         PP            np  p pppbppbpr  kq nr
+011111
+13
+00 
+No
+E1G1
+ KR QBNRPBPP  PP PN         PP            np  p pppbppbp kr q nr
+001111
+14
+00 
+No
+E8G8
+ KR QB RPBPP  PP PN  N      PP            np  p pppbppbp kr q nr
+001111
+15
+00 
+No
+B1C3
+ KR QB RPBPP  PP PN  N     nPP             p  p pppbppbp kr q nr
+001111
+16
+00 
+No
+F6E4
+ KR  B RPBPP QPP PN  N     nPP             p  p pppbppbp kr q nr
+001111
+17
+00 
+No
+D1C2
+ KR  B RPBPP QPP PN  n      PP             p  p pppbppbp kr q nr
+001111
+18
+00 
+No
+E4C3
+ KR  B RPBPP  PP PN  Q      PP             p  p pppbppbp kr q nr
+001111
+19
+00 
+No
+C2C3
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP            np    ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E6
+R BKQBNRPPPP  PP  N         PP            np    ppp ppppr bkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQBNRPPPP  PP  N         PP            np  p ppp pp pr bkqbnr
+111111
+8
+00 
+No
+B7B6
+R BKQBNRPPP   PP  NP        PP            np  p ppp pp pr bkqbnr
+111111
+9
+00 
+No
+E2E3
+R BKQBNRPPP   PP  NP        PP            np  p ppp ppbpr bkq nr
+111111
+10
+00 
+No
+C8B7
+R  KQBNRPPP   PP  NPB       PP            np  p ppp ppbpr bkq nr
+111111
+11
+00 
+No
+F1D3
+R  KQBNRPPP   PP  NPB       PP            np  p pppbppbpr  kq nr
+111111
+12
+00 
+No
+F8E7
+R  KQB RPPP   PP  NPBN      PP            np  p pppbppbpr  kq nr
+111111
+13
+00 
+No
+B1C3
+R  KQB RPPP   PP  NPBN      PP      p     np  p pppb pbpr  kq nr
+111111
+14
+00 
+No
+D7D5
+ KR QB RPPP   PP  NPBN      PP      p     np  p pppb pbpr  kq nr
+011111
+15
+00 
+No
+E1G1
+ KR QB RPPP   PP  NPBN      PP      p     np  p pppb pbp kr q nr
+001111
+16
+00 
+No
+E8G8
+ KR  B RPPPQ  PP  NPBN      PP      p     np  p pppb pbp kr q nr
+001111
+17
+00 
+No
+D1E2
+ KR  B RPPPQ  PP  NPBN      PP      p     np  p pppbnpbp kr q  r
+001111
+18
+00 
+No
+B8D7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQB RPPPP  PP     N      PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP           pn     pbppppppr  kqbnr
+111111
+8
+00 
+No
+F8G7
+RNBKQB RPPP   PP     N     PPP           pn     pbppppppr  kqbnr
+111111
+9
+00 
+No
+E2E4
+RNBKQB RPPP   PP     N     PPP           pn p   pbpp pppr  kqbnr
+111111
+10
+00 
+No
+D7D6
+RNBKQB RPP    PP  P  N     PPP           pn p   pbpp pppr  kqbnr
+111111
+11
+00 
+No
+F2F3
+RNBKQB RPP    PP  P  N     PPP           pn p   pbpp ppp kr qbnr
+101111
+12
+00 
+No
+E8G8
+RNBKQ  RPP    PP  PB N     PPP           pn p   pbpp ppp kr qbnr
+101111
+13
+00 
+No
+C1E3
+RNBKQ  RPP    PP  PB N     PPP     p     pn p   pbp  ppp kr qbnr
+101111
+14
+00 
+No
+E7E5
+RNBKQ  RPP    PP  PB N     P P     pP    pn p   pbp  ppp kr qbnr
+101111
+15
+00 
+No
+D4D5
+RNBKQ  RPP    PP  PB N     P P  n  pP    p  p   pbp  ppp kr qbnr
+101111
+16
+00 
+No
+F6H5
+RNBK   RPP  Q PP  PB N     P P  n  pP    p  p   pbp  ppp kr qbnr
+101111
+17
+00 
+No
+D1D2
+RNBK   RPP  Q PP  PB N     P P  n ppP    p  p   pb   ppp kr qbnr
+101111
+18
+00 
+No
+F7F5
+RNB RK  PP  Q PP  PB N     P P  n ppP    p  p   pb   ppp kr qbnr
+001111
+19
+00 
+No
+E1C1
+RNB RK  PP  Q PP  PB N     P P  n ppP    p  p   pb  nppp kr qb r
+001111
+20
+00 
+No
+B8D7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQB RPPPP  PP     N      PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP           pn     pbppppppr  kqbnr
+111111
+8
+00 
+No
+F8G7
+RNBKQB RPPP   PP     N     PPP           pn     pbppppppr  kqbnr
+111111
+9
+00 
+No
+E2E4
+RNBKQB RPPP   PP     N     PPP           pn p   pbpp pppr  kqbnr
+111111
+10
+00 
+No
+D7D6
+R BKQB RPPP   PP  N  N     PPP           pn p   pbpp pppr  kqbnr
+111111
+11
+00 
+No
+G1F3
+R BKQB RPPP   PP  N  N     PPP           pn p   pbpp ppp kr qbnr
+101111
+12
+00 
+No
+E8G8
+R  KQB RPPPB  PP  N  N     PPP           pn p   pbpp ppp kr qbnr
+101111
+13
+00 
+No
+F1E2
+R  KQB RPPPB  PP  N  N     PPP     p     pn p   pbp  ppp kr qbnr
+101111
+14
+00 
+No
+E7E5
+R  KQB RPPPB  PP  N  N     P P     pP    pn p   pbp  ppp kr qbnr
+101111
+15
+00 
+No
+D4D5
+R  KQB RPPPB  PP  N  N     P P     pP  p pn p   pbp  pp  kr qbnr
+101111
+16
+00 
+No
+A7A5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQBNRP PP  PP P          PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+G2G3
+RNBKQBNRP PP  PP P          PP           pn     pbppppppr  kqbnr
+111111
+8
+00 
+No
+F8G7
+RN KQBNRPBPP  PP P          PP           pn     pbppppppr  kqbnr
+111111
+9
+00 
+No
+F1G2
+RN KQBNRPBPP  PP P          PP           pn     pbpppppp kr qbnr
+101111
+10
+00 
+No
+E8G8
+RN KQB RPBPP  PP P   N      PP           pn     pbpppppp kr qbnr
+101111
+11
+00 
+No
+B1C3
+RN KQB RPBPP  PP P   N      PP           pn p   pbpp ppp kr qbnr
+101111
+12
+00 
+No
+D7D6
+R  KQB RPBPP  PP PN  N      PP           pn p   pbpp ppp kr qbnr
+101111
+13
+00 
+No
+G1F3
+R  KQB RPBPP  PP PN  N      PP           pn p   pbppnppp kr qb r
+101111
+14
+00 
+No
+B8D7
+ KR QB RPBPP  PP PN  N      PP           pn p   pbppnppp kr qb r
+001111
+15
+00 
+No
+E1G1
+ KR QB RPBPP  PP PN  N      PP     p     pn p   pbp nppp kr qb r
+001111
+16
+00 
+No
+E7E5
+ KR QB RPBP   PP PN  N     PPP     p     pn p   pbp nppp kr qb r
+001111
+17
+00 
+No
+E2E4
+ KR QB RPBP   PP PN  N     PPP     p     pn pp  pbp n pp kr qb r
+001111
+18
+00 
+No
+C7C6
+ KR QB R BP   PPPPN  N     PPP     p     pn pp  pbp n pp kr qb r
+001111
+19
+00 
+No
+H2H3
+ KR QB R BP   PPPPN  N     PPP     p     pn ppq pbp n pp kr  b r
+001111
+20
+00 
+No
+D8B6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQB RPPPP  PP     N      PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP           pn     pbppppppr  kqbnr
+111111
+8
+00 
+No
+F8G7
+RNBKQB RPPP   PP     N     PPP           pn     pbppppppr  kqbnr
+111111
+9
+00 
+No
+E2E4
+RNBKQB RPPP   PP     N     PPP           pn p   pbpp pppr  kqbnr
+111111
+10
+00 
+No
+D7D6
+RNBKQB RPP    PP     N    PPPP           pn p   pbpp pppr  kqbnr
+111111
+11
+00 
+No
+F2F4
+RNBKQB RPP    PP     N    PPPP       p   pn p   pbpp  ppr  kqbnr
+111111
+12
+00 
+No
+C7C5
+R BKQB RPP    PP  N  N    PPPP       p   pn p   pbpp  ppr  kqbnr
+111111
+13
+00 
+No
+G1F3
+R BKQB RPP    PP  N  N    PPPP       p   pn p   pbpp  pp kr qbnr
+101111
+14
+00 
+No
+E8G8
+R BKQB RPP    PP  N  N    PP P      Pp   pn p   pbpp  pp kr qbnr
+101111
+15
+00 
+No
+D4D5
+R BKQB RPP    PP  N  N    PP P      Pp   pnpp   pbp   pp kr qbnr
+101111
+16
+00 
+No
+E7E6
+R  KQB RPP    PP  N BN    PP P      Pp   pnpp   pbp   pp kr qbnr
+101111
+17
+00 
+No
+F1D3
+R  KQB RPP    PP  N BN    PP P      pp   pn p   pbp   pp kr qbnr
+101111
+18
+00 
+No
+E6D5
+R  KQB RPP    PP  N BN    PP        Pp   pn p   pbp   pp kr qbnr
+101111
+19
+00 
+No
+C4D5
+R  KQB RPP    PP  N BN    PP        Pp   pn p q pbp   pp kr  bnr
+101111
+20
+00 
+No
+D8B6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQB RPPPP  PP     N      PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP           pn     pbppppppr  kqbnr
+111111
+8
+00 
+No
+F8G7
+RNBKQB RPPP   PP     N     PPP           pn     pbppppppr  kqbnr
+111111
+9
+00 
+No
+E2E4
+RNBKQB RPPP   PP     N     PPP           pn p   pbpp pppr  kqbnr
+111111
+10
+00 
+No
+D7D6
+R BKQB RPPP   PP  N  N     PPP           pn p   pbpp pppr  kqbnr
+111111
+11
+00 
+No
+G1F3
+R BKQB RPPP   PP  N  N     PPP           pn p   pbpp ppp kr qbnr
+101111
+12
+00 
+No
+E8G8
+R  KQB RPPPB  PP  N  N     PPP           pn p   pbpp ppp kr qbnr
+101111
+13
+00 
+No
+F1E2
+R  KQB RPPPB  PP  N  N     PPP     p     pn p   pbp  ppp kr qbnr
+101111
+14
+00 
+No
+E7E5
+ KR QB RPPPB  PP  N  N     PPP     p     pn p   pbp  ppp kr qbnr
+001111
+15
+00 
+No
+E1G1
+ KR QB RPPPB  PP  N  N     PPP     p     pn pn  pbp  ppp kr qb r
+001111
+16
+00 
+No
+B8C6
+ KR QB RPPPB  PP  N  N     P P     pP    pn pn  pbp  ppp kr qb r
+001111
+17
+00 
+No
+D4D5
+ KR QB RPPPB  PP  N  N     P P     pP    pn p   pbpn ppp kr qb r
+001111
+18
+00 
+No
+C6E7
+ KRNQB RPPPB  PP     N     P P     pP    pn p   pbpn ppp kr qb r
+001111
+19
+00 
+No
+F3E1
+ KRNQB RPPPB  PP     N     P P     pP    p  p   pbpn ppp krnqb r
+001111
+20
+00 
+No
+F6E8
+ KRNQB RPP B  PP  P  N     P P     pP    p  p   pbpn ppp krnqb r
+001111
+21
+00 
+No
+F2F3
+ KRNQB RPP B  PP  P  N     P P    ppP    p  p   pb n ppp krnqb r
+001111
+22
+00 
+No
+F7F5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQB RPPPP  PP     N      PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP           pn     pbppppppr  kqbnr
+111111
+8
+00 
+No
+F8G7
+R BKQB RPPPP  PP  N  N      PP           pn     pbppppppr  kqbnr
+111111
+9
+00 
+No
+G1F3
+R BKQB RPPPP  PP  N  N      PP           pn     pbpppppp kr qbnr
+101111
+10
+00 
+No
+E8G8
+R BKQ  RPPPP  PP  N  N    B PP           pn     pbpppppp kr qbnr
+101111
+11
+00 
+No
+C1F4
+R BKQ  RPPPP  PP  N  N    B PP           pn p   pbpp ppp kr qbnr
+101111
+12
+00 
+No
+D7D6
+R BKQ  R PPP  PPP N  N    B PP           pn p   pbpp ppp kr qbnr
+101111
+13
+00 
+No
+H2H3
+R BKQ  R PPP  PPP N  N    B PP           pn p   pbppnppp kr qb r
+101111
+14
+00 
+No
+B8D7
+R BKQ  R PP   PPP NP N    B PP           pn p   pbppnppp kr qb r
+101111
+15
+00 
+No
+E2E3
+R BKQ  R PP   PPP NP N    B PP           pn pp  pbppn pp kr qb r
+101111
+16
+00 
+No
+C7C6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQB RPPPP  PP     N      PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      p    pn     p pp pppr bkqbnr
+111111
+8
+00 
+No
+D7D5
+RNBKQ  RPPPP  PP     N    B PP      p    pn     p pp pppr bkqbnr
+111111
+9
+00 
+No
+C1F4
+RNBKQ  RPPPP  PP     N    B PP      p    pn     pbpp pppr  kqbnr
+111111
+10
+00 
+No
+F8G7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQB RPPPP  PP     N      PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      p    pn     p pp pppr bkqbnr
+111111
+8
+00 
+No
+D7D5
+RNBKQB RPPPP  PP     N      P       P    pn     p pp pppr bkqbnr
+111111
+9
+00 
+No
+C4D5
+RNBKQB RPPPP  PP     N      P       n    p      p pp pppr bkqbnr
+111111
+10
+00 
+No
+F6D5
+RNBKQB RPPP   PP     N     PP       n    p      p pp pppr bkqbnr
+111111
+11
+00 
+No
+E2E4
+RNBKQB RPPP   PP     n     PP            p      p pp pppr bkqbnr
+111111
+12
+00 
+No
+D5C3
+RNBKQB RPPP    P     P     PP            p      p pp pppr bkqbnr
+111111
+13
+00 
+No
+B2C3
+RNBKQB RPPP    P     P     PP        p   p      p pp  ppr bkqbnr
+111111
+14
+00 
+No
+C7C5
+RN KQB RPPP    P     P     PPB       p   p      p pp  ppr bkqbnr
+111111
+15
+00 
+No
+F1C4
+RN KQB RPPP    P     P     PPB       p   p      pbpp  ppr  kqbnr
+111111
+16
+00 
+No
+F8G7
+R  KQB RPPPN   P     P     PPB       p   p      pbpp  ppr  kqbnr
+111111
+17
+00 
+No
+G1E2
+R  KQB RPPPN   P     P     PPB       p   p      pbpp  pp kr qbnr
+101111
+18
+00 
+No
+E8G8
+ KR QB RPPPN   P     P     PPB       p   p      pbpp  pp kr qbnr
+001111
+19
+00 
+No
+E1G1
+ KR QB RPPPN   P     P     PpB           p      pbpp  pp kr qbnr
+001111
+20
+00 
+No
+C5D4
+ KR QB RPPPN   P           PPB           p      pbpp  pp kr qbnr
+001111
+21
+00 
+No
+C3D4
+ KR QB RPPPN   P           PPB           p   n  pbpp  pp kr qb r
+001111
+22
+00 
+No
+B8C6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP           pn     p ppppppr bkqbnr
+111111
+6
+00 
+No
+G7G6
+RNBKQB RPPPP  PP     N      PP           pn     p ppppppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N      PP      p    pn     p pp pppr bkqbnr
+111111
+8
+00 
+No
+D7D5
+R BKQB RPPPP  PP  N  N      PP      p    pn     p pp pppr bkqbnr
+111111
+9
+00 
+No
+G1F3
+R BKQB RPPPP  PP  N  N      PP      p    pn     pbpp pppr  kqbnr
+111111
+10
+00 
+No
+F8G7
+R BK B RPPPP  PP  N  NQ     PP      p    pn     pbpp pppr  kqbnr
+111111
+11
+00 
+No
+D1B3
+R BK B RPPPP  PP  N  NQ     Pp           pn     pbpp pppr  kqbnr
+111111
+12
+00 
+No
+D5C4
+R BK B RPPPP  PP  N  N      PQ           pn     pbpp pppr  kqbnr
+111111
+13
+00 
+No
+B3C4
+R BK B RPPPP  PP  N  N      PQ           pn     pbpp ppp kr qbnr
+101111
+14
+00 
+No
+E8G8
+R BK B RPPP   PP  N  N     PPQ           pn     pbpp ppp kr qbnr
+101111
+15
+00 
+No
+E2E4
+R BK B RPPP   PP  N  N   b PPQ           pn     pbpp ppp kr q nr
+101111
+16
+00 
+No
+C8G4
+R BK   RPPP   PP  NB N   b PPQ           pn     pbpp ppp kr q nr
+101111
+17
+00 
+No
+C1E3
+R BK   RPPP   PP  NB N   b PPQ           p      pbppnppp kr q nr
+101111
+18
+00 
+No
+F6D7
+R B RK  PPP   PP  NB N   b PPQ           p      pbppnppp kr q nr
+001111
+19
+00 
+No
+E1C1
+R B RK  PPP   PP  NB N   b PPQ           p   n  pbppnppp kr q  r
+001111
+20
+00 
+No
+B8C6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P             n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQBNRPPPP  PP            PP            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+C2C4
+RNBKQBNRPPPP  PP            PP       p    n     ppppp ppr bkqbnr
+111111
+6
+00 
+No
+C7C5
+RNBKQBNRPPPP  PP             P      Pp    n     ppppp ppr bkqbnr
+111111
+7
+00 
+No
+D4D5
+RNBKQBNRPPPP  PP             P      Pp    np    ppp p ppr bkqbnr
+111111
+8
+00 
+No
+E7E6
+RNBKQB RPPPP  PP     N       P      Pp    np    ppp p ppr bkqbnr
+111111
+9
+00 
+No
+B1C3
+RNBKQB RPPPP  PP     N       P      pp    n     ppp p ppr bkqbnr
+111111
+10
+00 
+No
+E6D5
+RNBKQB RPPPP  PP     N              Pp    n     ppp p ppr bkqbnr
+111111
+11
+00 
+No
+C4D5
+RNBKQB RPPPP  PP     N              Pp    n p   ppp   ppr bkqbnr
+111111
+12
+00 
+No
+D7D6
+RNBKQB RPPP   PP     N     P        Pp    n p   ppp   ppr bkqbnr
+111111
+13
+00 
+No
+E2E4
+RNBKQB RPPP   PP     N     P        Pp   pn p   p p   ppr bkqbnr
+111111
+14
+00 
+No
+G7G6
+RN KQB RPPP   PP    BN     P        Pp   pn p   p p   ppr bkqbnr
+111111
+15
+00 
+No
+F1D3
+RN KQB RPPP   PP    BN     P        Pp   pn p   pbp   ppr  kqbnr
+111111
+16
+00 
+No
+F8G7
+R  KQB RPPPN  PP    BN     P        Pp   pn p   pbp   ppr  kqbnr
+111111
+17
+00 
+No
+G1E2
+R  KQB RPPPN  PP    BN     P        Pp   pn p   pbp   pp kr qbnr
+101111
+18
+00 
+No
+E8G8
+ KR QB RPPPN  PP    BN     P        Pp   pn p   pbp   pp kr qbnr
+001111
+19
+00 
+No
+E1G1
+ KR QB RPPPN  PP    BN     P        Pp   pn p  ppbp   p  kr qbnr
+001111
+20
+00 
+No
+A7A6
+ KR QB RPPPN  P     BN     P   P    Pp   pn p  ppbp   p  kr qbnr
+001111
+21
+00 
+No
+A2A4
+ KR QB RPPPN  P     BN     P   P    Pp   pn p  ppbp  qp  kr  bnr
+001111
+22
+00 
+No
+D8C7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P     p             pp ppppprnbkqbnr
+111111
+4
+00 
+No
+F7F5
+RNBKQBNRP PP PPP P          P     p             pp ppppprnbkqbnr
+111111
+5
+00 
+No
+G2G3
+RNBKQBNRP PP PPP P          P     p        p    pp  pppprnbkqbnr
+111111
+6
+00 
+No
+E7E6
+RN KQBNRPBPP PPP P          P     p        p    pp  pppprnbkqbnr
+111111
+7
+00 
+No
+F1G2
+RN KQBNRPBPP PPP P          P     p       np    pp  ppppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+R  KQBNRPBPP PPP PN         P     p       np    pp  ppppr bkqbnr
+111111
+9
+00 
+No
+G1F3
+R  KQBNRPBPP PPP PN         P     p       np    pp bppppr  kqbnr
+111111
+10
+00 
+No
+F8E7
+ KR QBNRPBPP PPP PN         P     p       np    pp bppppr  kqbnr
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPBPP PPP PN         P     p       np    pp bpppp kr qbnr
+001111
+12
+00 
+No
+E8G8
+ KR QBNRPBPP  PP PN         PP    p       np    pp bpppp kr qbnr
+001111
+13
+00 
+No
+C2C4
+ KR QBNRPBPP  PP PN         PP    p       npp   pp b ppp kr qbnr
+001111
+14
+00 
+No
+D7D6
+ KR QB RPBPP  PP PN  N      PP    p       npp   pp b ppp kr qbnr
+001111
+15
+00 
+No
+B1C3
+ KR QB RPBPP  PP PN  N      PP    p       npp   pp b ppp krq bnr
+001111
+16
+00 
+No
+D8E8
+ KR  B RPBPP QPP PN  N      PP    p       npp   pp b ppp krq bnr
+001111
+17
+00 
+No
+D1C2
+ KR  B RPBPP QPP PN  N      PP  q p       npp   pp b ppp kr  bnr
+001111
+18
+00 
+No
+E8H5
+ KR  B RPBPP Q P PN  NP     PP  q p       npp   pp b ppp kr  bnr
+001111
+19
+00 
+No
+B2B3
+ KR  B RPBPP Q P PN  NP     PP  q p       nppn  pp b ppp kr  b r
+001111
+20
+00 
+No
+B8C6
+ KR    RPBPP Q P PN  NPB    PP  q p       nppn  pp b ppp kr  b r
+001111
+21
+00 
+No
+C1A3
+ KR    RPBPP Q P PN  NPB    PP  q p    p  nppn  pp b pp  kr  b r
+001111
+22
+00 
+No
+A7A5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+R BKQBNRPPPP PPP  N         P       p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPPP PPP  N         P       p     n     pppp pppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R BKQ NRPPPP PPP  N       B P       p     n     pppp pppr bkqbnr
+111111
+7
+00 
+No
+C1F4
+R BKQ NRPPPP PPP  N       B P       pp    n     pppp  ppr bkqbnr
+111111
+8
+00 
+No
+C7C5
+R BKQ NRPPP  PPP  NP      B P       pp    n     pppp  ppr bkqbnr
+111111
+9
+00 
+No
+E2E3
+R BKQ NRPPP  PPP  NP      B P       pp    n  n  pppp  ppr bkqb r
+111111
+10
+00 
+No
+B8C6
+R BKQ NRPPP   PP  NP P    B P       pp    n  n  pppp  ppr bkqb r
+111111
+11
+00 
+No
+C2C3
+R BKQ NRPPP   PP  NP P    B P       pp    n  nq pppp  ppr bk b r
+111111
+12
+00 
+No
+D8B6
+R BK QNRPPP   PP  NP P    B P       pp    n  nq pppp  ppr bk b r
+111111
+13
+00 
+No
+D1C1
+R BK QNRPPP   PP  NP P    B P     b pp    n  nq pppp  ppr bk   r
+111111
+14
+00 
+No
+C8F5
+R BK QNRPPP   PP  NP P    B       b pP    n  nq pppp  ppr bk   r
+111111
+15
+00 
+No
+D4C5
+R BK QNRPPP   PP  NP P    B       b pq    n  n  pppp  ppr bk   r
+111111
+16
+00 
+No
+B6C5
+R BK Q RPPP N PP  NP P    B       b pq    n  n  pppp  ppr bk   r
+111111
+17
+00 
+No
+B1D2
+R BK Q RPPP N PP  NP P    B       b pq    n  n  pppp  ppr bk r  
+111101
+18
+00 
+No
+A8C8
+R BK Q RPPP N PP   P P    B N     b pq    n  n  pppp  ppr bk r  
+111101
+19
+00 
+No
+F3D4
+R BK Q RPPP N PP   P P    B n     b pq    n     pppp  ppr bk r  
+111101
+20
+00 
+No
+C6D4
+R BK Q RPPP N PP     P    B P     b pq    n     pppp  ppr bk r  
+111101
+21
+00 
+No
+E3D4
+R BK Q RPPP N PP     P    B P     b p     n   q pppp  ppr bk r  
+111101
+22
+00 
+No
+C5B6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPPP PP             P                  pppppppprnbkqbnr
+111111
+3
+00 
+No
+C2C4
+RNBKQBNRPPPPP PP             P     p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+RNBKQB RPPPPP PP     N       P     p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPPPP PP     N       P     p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R BKQB RPPPPP PP  N  N       P     p      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQB RPPPPP PP  N  N       P     p      n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+B8C6
+R BKQB RPPP P PP  N  N     P P     p      n  n  ppp ppppr bkqb r
+111111
+9
+00 
+No
+E2E4
+R BKQB RPPP P PP  N  N     P Pb    p      n  n  ppp ppppr  kqb r
+111111
+10
+00 
+No
+F8B4
+R BKQB RPPP   PP  N PN     P Pb    p      n  n  ppp ppppr  kqb r
+111111
+11
+00 
+No
+D2D3
+R BKQB RPPP   PP  N PN     P Pb    p      n pn  ppp  pppr  kqb r
+111111
+12
+00 
+No
+D7D6
+R  KQB RPPPB  PP  N PN     P Pb    p      n pn  ppp  pppr  kqb r
+111111
+13
+00 
+No
+F1E2
+R  KQB RPPPB  PP  N PN     P Pb    p      n pn  ppp  ppp kr qb r
+101111
+14
+00 
+No
+E8G8
+ KR QB RPPPB  PP  N PN     P Pb    p      n pn  ppp  ppp kr qb r
+001111
+15
+00 
+No
+E1G1
+ KR QB RPPPB  PP  N Pb     P P     p      n pn  ppp  ppp kr qb r
+001111
+16
+00 
+No
+B4C3
+ KR QB RPPPB   P  N PP     P P     p      n pn  ppp  ppp kr qb r
+001111
+17
+00 
+No
+B2C3
+ KR QB RPPPB   P  N PP     P P     p      n pn  pppq ppp kr  b r
+001111
+18
+00 
+No
+D8E7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPPP PP             P                  pppppppprnbkqbnr
+111111
+3
+00 
+No
+C2C4
+RNBKQBNRPPPPP PP             P     p            ppp pppprnbkqbnr
+111111
+4
+00 
+No
+E7E5
+RNBKQB RPPPPP PP     N       P     p            ppp pppprnbkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPPPP PP     N       P     p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R BKQB RPPPPP PP  N  N       P     p      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQB RPPPPP PP  N  N       P     p      n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+B8C6
+R BKQB RP PPP PP PN  N       P     p      n  n  ppp ppppr bkqb r
+111111
+9
+00 
+No
+G2G3
+R BKQB RP PPP PP PN  N       P     pp     n  n  ppp  pppr bkqb r
+111111
+10
+00 
+No
+D7D5
+R BKQB RP PPP PP PN  N             pP     n  n  ppp  pppr bkqb r
+111111
+11
+00 
+No
+C4D5
+R BKQB RP PPP PP PN  N             pn        n  ppp  pppr bkqb r
+111111
+12
+00 
+No
+F6D5
+R  KQB RPBPPP PP PN  N             pn        n  ppp  pppr bkqb r
+111111
+13
+00 
+No
+F1G2
+R  KQB RPBPPP PP PN  N             p         nn ppp  pppr bkqb r
+111111
+14
+00 
+No
+D5B6
+ KR QB RPBPPP PP PN  N             p         nn ppp  pppr bkqb r
+011111
+15
+00 
+No
+E1G1
+ KR QB RPBPPP PP PN  N             p         nn pppb pppr  kqb r
+011111
+16
+00 
+No
+F8E7
+ KR QB RPBPP  PP PN PN             p         nn pppb pppr  kqb r
+011111
+17
+00 
+No
+D2D3
+ KR QB RPBPP  PP PN PN             p         nn pppb ppp kr qb r
+001111
+18
+00 
+No
+E8G8
+ KR Q  RPBPP  PP PNBPN             p         nn pppb ppp kr qb r
+001111
+19
+00 
+No
+C1E3
+ KR Q  RPBPP  PP PNBPN            pp         nn pp b ppp kr qb r
+001111
+20
+00 
+No
+F7F5
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPPP PP             P                  pppppppprnbkqbnr
+111111
+3
+00 
+No
+C2C4
+RNBKQBNRPPPPP PP             P            n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQB RPPPPP PP     N       P            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPPPP PP     N       P      p     n     pppp pppr bkqbnr
+111111
+6
+00 
+No
+D7D5
+RNBKQB RPPPPP PP     N              P     n     pppp pppr bkqbnr
+111111
+7
+00 
+No
+C4D5
+RNBKQB RPPPPP PP     N              n           pppp pppr bkqbnr
+111111
+8
+00 
+No
+F6D5
+RNBKQB RPPP P PP     N     P        n           pppp pppr bkqbnr
+111111
+9
+00 
+No
+E2E4
+RNBKQB RPPP P PP     N    nP                    pppp pppr bkqbnr
+111111
+10
+00 
+No
+D5F4
+RN KQB RPPP P PP     N    nP B                  pppp pppr bkqbnr
+111111
+11
+00 
+No
+F1C4
+RN KQB RPPP P PP     N    nP B             b    pppp pppr bkq nr
+111111
+12
+00 
+No
+C8E6
+RN KQB RPPP P PP     N    nP               B    pppp pppr bkq nr
+111111
+13
+00 
+No
+C4E6
+RN KQB RPPP P PP     N    nP               p    pp p pppr bkq nr
+111111
+14
+00 
+No
+F7E6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPPP PP             P                  pppppppprnbkqbnr
+111111
+3
+00 
+No
+C2C4
+RNBKQBNRPPPPP PP             P            n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQB RPPPPP PP     N       P            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPPPP PP     N       P     p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E5
+R BKQB RPPPPP PP  N  N       P     p      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQB RPPPPP PP  N  N       P     p      n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+B8C6
+R BKQB RP PPP PP PN  N       P     p      n  n  ppp ppppr bkqb r
+111111
+9
+00 
+No
+G2G3
+R BKQB RP PPP PP PN  N       P     p b    n  n  ppp ppppr  kqb r
+111111
+10
+00 
+No
+F8C5
+R  KQB RPBPPP PP PN  N       P     p b    n  n  ppp ppppr  kqb r
+111111
+11
+00 
+No
+F1G2
+R  KQB RPBPPP PP PN  N       P     p b    n pn  ppp  pppr  kqb r
+111111
+12
+00 
+No
+D7D6
+ KR QB RPBPPP PP PN  N       P     p b    n pn  ppp  pppr  kqb r
+011111
+13
+00 
+No
+E1G1
+ KR QB RPBPPP PP PN  N       P     p b    n pn  ppp  ppp kr qb r
+001111
+14
+00 
+No
+E8G8
+ KR QB RPBPP  PP PN PN       P     p b    n pn  ppp  ppp kr qb r
+001111
+15
+00 
+No
+D2D3
+ KR QB RPBPP  PP PN PN       P     p b  p n pn   pp  ppp kr qb r
+001111
+16
+00 
+No
+H7H6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPPP PP             P                  pppppppprnbkqbnr
+111111
+3
+00 
+No
+C2C4
+RNBKQBNRPPPPP PP             P            n     ppppppppr bkqbnr
+111111
+4
+00 
+No
+G8F6
+RNBKQB RPPPPP PP     N       P            n     ppppppppr bkqbnr
+111111
+5
+00 
+No
+B1C3
+RNBKQB RPPPPP PP     N       P     p      n     ppp ppppr bkqbnr
+111111
+6
+00 
+No
+E7E5
+R BKQB RPPPPP PP  N  N       P     p      n     ppp ppppr bkqbnr
+111111
+7
+00 
+No
+G1F3
+R BKQB RPPPPP PP  N  N       P     p      n  n  ppp ppppr bkqb r
+111111
+8
+00 
+No
+B8C6
+R BKQB RP PPP PP PN  N       P     p      n  n  ppp ppppr bkqb r
+111111
+9
+00 
+No
+G2G3
+R BKQB RP PPP PP PN  N       Pb    p      n  n  ppp ppppr  kqb r
+111111
+10
+00 
+No
+F8B4
+R  KQB RPBPPP PP PN  N       Pb    p      n  n  ppp ppppr  kqb r
+111111
+11
+00 
+No
+F1G2
+R  KQB RPBPPP PP PN  N       Pb    p      n  n  ppp pppp kr qb r
+101111
+12
+00 
+No
+E8G8
+ KR QB RPBPPP PP PN  N       Pb    p      n  n  ppp pppp kr qb r
+001111
+13
+00 
+No
+E1G1
+ KR QB RPBPPP PP PN  N     p Pb           n  n  ppp pppp kr qb r
+001111
+14
+00 
+No
+E5E4
+ KRNQB RPBPPP PP P   N     p Pb           n  n  ppp pppp kr qb r
+001111
+15
+00 
+No
+F3E1
+ KRNQB RPBPPP PP P   b     p P            n  n  ppp pppp kr qb r
+001111
+16
+00 
+No
+B4C3
+ KRNQB RPBPP  PP P   P     p P            n  n  ppp pppp kr qb r
+001111
+17
+00 
+No
+D2C3
+ KRNQB RPBPP  PP P   P     p P          p n  n   pp pppp kr qb r
+001111
+18
+00 
+No
+H7H6
+ KR QB RPBPP NPP P   P     p P          p n  n   pp pppp kr qb r
+001111
+19
+00 
+No
+E1C2
+ KR QB RPBPP NPP P   P     p P          p n  np  pp pp p kr qb r
+001111
+20
+00 
+No
+B7B6
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPPP PP             P                  pppppppprnbkqbnr
+111111
+3
+00 
+No
+C2C4
+RNBKQBNRPPPPP PP             P       p          ppppp pprnbkqbnr
+111111
+4
+00 
+No
+C7C5
+R BKQBNRPPPPP PP  N          P       p          ppppp pprnbkqbnr
+111111
+5
+00 
+No
+G1F3
+R BKQBNRPPPPP PP  N          P       p       n  ppppp pprnbkqb r
+111111
+6
+00 
+No
+B8C6
+R BKQB RPPPPP PP  N  N       P       p       n  ppppp pprnbkqb r
+111111
+7
+00 
+No
+B1C3
+R BKQB RPPPPP PP  N  N       P       p    n  n  ppppp ppr bkqb r
+111111
+8
+00 
+No
+G8F6
+R BKQB RP PPP PP PN  N       P       p    n  n  ppppp ppr bkqb r
+111111
+9
+00 
+No
+G2G3
+R BKQB RP PPP PP PN  N       P       p   pn  n  p ppp ppr bkqb r
+111111
+10
+00 
+No
+G7G6
+R  KQB RPBPPP PP PN  N       P       p   pn  n  p ppp ppr bkqb r
+111111
+11
+00 
+No
+F1G2
+R  KQB RPBPPP PP PN  N       P       p   pn  n  pbppp ppr  kqb r
+111111
+12
+00 
+No
+F8G7
+ KR QB RPBPPP PP PN  N       P       p   pn  n  pbppp ppr  kqb r
+011111
+13
+00 
+No
+E1G1
+ KR QB RPBPPP PP PN  N       P       p   pn  n  pbppp pp kr qb r
+001111
+14
+00 
+No
+E8G8
+ KR QB RPBPP  PP PN  N      PP       p   pn  n  pbppp pp kr qb r
+001111
+15
+00 
+No
+D2D4
+ KR QB RPBPP  PP PN  N      pP           pn  n  pbppp pp kr qb r
+001111
+16
+00 
+No
+C5D4
+ KR QB RPBPP  PP P   N      NP           pn  n  pbppp pp kr qb r
+001111
+17
+00 
+No
+F3D4
+ KR QB RPBPP  PP P   N      nP           pn     pbppp pp kr qb r
+001111
+18
+00 
+No
+C6D4
+ KR  B RPBPP  PP P   N      QP           pn     pbppp pp kr qb r
+001111
+19
+00 
+No
+D1D4
+ KR  B RPBPP  PP P   N      QP           pn p   pbpp  pp kr qb r
+001111
+20
+00 
+No
+D7D6
+ KR  B RPBPP  PP P  QN       P           pn p   pbpp  pp kr qb r
+001111
+21
+00 
+No
+D4D3
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+R BKQBNRPPPPPPPP  N                             pppppppprnbkqbnr
+111111
+3
+00 
+No
+G1F3
+R BKQBNRPPPPPPPP  N                 p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+R BKQBNRP PPPPPP PN                 p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+G2G3
+R BKQBNRP PPPPPP PN                 p     n     pppp pppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+R  KQBNRPBPPPPPP PN                 p     n     pppp pppr bkqbnr
+111111
+7
+00 
+No
+F1G2
+R  KQBNRPBPPPPPP PN                 p    pn     p pp pppr bkqbnr
+111111
+8
+00 
+No
+G7G6
+ KR QBNRPBPPPPPP PN                 p    pn     p pp pppr bkqbnr
+011111
+9
+00 
+No
+E1G1
+ KR QBNRPBPPPPPP PN                 p    pn     pbpp pppr  kqbnr
+011111
+10
+00 
+No
+F8G7
+ KR QBNRPBPP PPP PN P               p    pn     pbpp pppr  kqbnr
+011111
+11
+00 
+No
+D2D3
+ KR QBNRPBPP PPP PN P               p    pn     pbpp ppp kr qbnr
+001111
+12
+00 
+No
+E8G8
+ KR QB RPBPPNPPP PN P               p    pn     pbpp ppp kr qbnr
+001111
+13
+00 
+No
+B1D2
+ KR QB RPBPPNPPP PN P               p    pn  n  pbpp ppp kr qb r
+001111
+14
+00 
+No
+B8C6
+ KR QB RPBP NPPP PN P      P        p    pn  n  pbpp ppp kr qb r
+001111
+15
+00 
+No
+E2E4
+ KR QB RPBP NPPP PN P      P       pp    pn  n  pbp  ppp kr qb r
+001111
+16
+00 
+No
+E7E5
+ KR QB RPBP N PP PN PP     P       pp    pn  n  pbp  ppp kr qb r
+001111
+17
+00 
+No
+C2C3
+ KR QB RPBP N PP PN PP     P       pp  p pn  n  pbp  pp  kr qb r
+001111
+18
+00 
+No
+A7A5
+ K RQB RPBP N PP PN PP     P       pp  p pn  n  pbp  pp  kr qb r
+001111
+19
+00 
+No
+F1E1
+ K RQB RPBP N PP PN PP     p       p   p pn  n  pbp  pp  kr qb r
+001111
+20
+00 
+No
+D5E4
+ K RQB RPBP N PP PN  P     P       p   p pn  n  pbp  pp  kr qb r
+001111
+21
+00 
+No
+D3E4
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+R BKQBNRPPPPPPPP  N                             pppppppprnbkqbnr
+111111
+3
+00 
+No
+G1F3
+R BKQBNRPPPPPPPP  N                 p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+R BKQBNRPPPPP PP  N          P      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+R BKQBNRPPPPP PP  N          P      p      p    ppp  ppprnbkqbnr
+111111
+6
+00 
+No
+E7E6
+R BKQBNRP PPP PP PN          P      p      p    ppp  ppprnbkqbnr
+111111
+7
+00 
+No
+G2G3
+R BKQBNRP PPP PP PN          P      p     np    ppp  pppr bkqbnr
+111111
+8
+00 
+No
+G8F6
+R  KQBNRPBPPP PP PN          P      p     np    ppp  pppr bkqbnr
+111111
+9
+00 
+No
+F1G2
+R  KQBNRPBPPP PP PN          P      p     np    pppb pppr  kqbnr
+111111
+10
+00 
+No
+F8E7
+ KR QBNRPBPPP PP PN          P      p     np    pppb pppr  kqbnr
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPBPPP PP PN          P      p     np    pppb ppp kr qbnr
+001111
+12
+00 
+No
+E8G8
+ KR QBNRPBPPP  P PN   P      P      p     np    pppb ppp kr qbnr
+001111
+13
+00 
+No
+B2B3
+ KR QBNRPBPPP  P PN   P      P      pp    np    pppb  pp kr qbnr
+001111
+14
+00 
+No
+C7C5
+ KR QBNRPBPPP  P PN   P             Pp    np    pppb  pp kr qbnr
+001111
+15
+00 
+No
+C4D5
+ KR QBNRPBPPP  P PN   P             np     p    pppb  pp kr qbnr
+001111
+16
+00 
+No
+F6D5
+ KR Q NRPBPPP BP PN   P             np     p    pppb  pp kr qbnr
+001111
+17
+00 
+No
+C1B2
+ KR Q NRPBPPP BP PN   P             np     p n  pppb  pp kr qb r
+001111
+18
+00 
+No
+B8C6
+ KR Q NRPBPP  BP PN   P     P       np     p n  pppb  pp kr qb r
+001111
+19
+00 
+No
+D2D4
+ KR Q NRPBPP  BP PN   P     P       np     p np pppb   p kr qb r
+001111
+20
+00 
+No
+B7B6
+ KR Q  RPBPP  BP PN  NP     P       np     p np pppb   p kr qb r
+001111
+21
+00 
+No
+B1C3
+ KR Q  RPBPP  BP PN  nP     P        p     p np pppb   p kr qb r
+001111
+22
+00 
+No
+D5C3
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+R BKQBNRPPPPPPPP  N                             pppppppprnbkqbnr
+111111
+3
+00 
+No
+G1F3
+R BKQBNRPPPPPPPP  N                 p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+R BKQBNRPPPPP PP  N          P      p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+C2C4
+R BKQBNRPPPPP PP  N          p                  pppp ppprnbkqbnr
+111111
+6
+00 
+No
+D5C4
+R BKQBNRPPP P PP  NP         p                  pppp ppprnbkqbnr
+111111
+7
+00 
+No
+E2E3
+R BKQBNRPPP P PP  NP         p       p          pppp  pprnbkqbnr
+111111
+8
+00 
+No
+C7C5
+R  KQBNRPPP P PP  NP         B       p          pppp  pprnbkqbnr
+111111
+9
+00 
+No
+F1C4
+R  KQBNRPPP P PP  NP         B       p     p    ppp   pprnbkqbnr
+111111
+10
+00 
+No
+E7E6
+ KR QBNRPPP P PP  NP         B       p     p    ppp   pprnbkqbnr
+011111
+11
+00 
+No
+E1G1
+ KR QBNRPPP P PP  NP         B       p    np    ppp   ppr bkqbnr
+011111
+12
+00 
+No
+G8F6
+ KR QBNRPPP P  P  NP  P      B       p    np    ppp   ppr bkqbnr
+011111
+13
+00 
+No
+B2B3
+ KR QBNRPPP P  P  NP  P      B       p    np n  ppp   ppr bkqb r
+011111
+14
+00 
+No
+B8C6
+ KR Q NRPPP P BP  NP  P      B       p    np n  ppp   ppr bkqb r
+011111
+15
+00 
+No
+C1B2
+ KR Q NRPPP P BP  NP  P      B       p    np n pppp   p r bkqb r
+011111
+16
+00 
+No
+A7A6
+ KR Q NRPPP P B   NP  P      B P     p    np n pppp   p r bkqb r
+011111
+17
+00 
+No
+A2A4
+ KR Q NRPPP P B   NP  P      B P     p    np n ppppb  p r  kqb r
+011111
+18
+00 
+No
+F8E7
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPP PPPP           P                    pppppppprnbkqbnr
+111111
+3
+00 
+No
+E2E4
+RNBKQBNRPPP PPPP           P                p   pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D6
+RNBKQBNRPPP  PPP           PP               p   pppp ppprnbkqbnr
+111111
+5
+00 
+No
+D2D4
+RNBKQBNRPPP  PPP           PP             n p   pppp pppr bkqbnr
+111111
+6
+00 
+No
+G8F6
+RNBKQB RPPP  PPP     N     PP             n p   pppp pppr bkqbnr
+111111
+7
+00 
+No
+B1C3
+RNBKQB RPPP  PPP     N     PP            pn p   p pp pppr bkqbnr
+111111
+8
+00 
+No
+G7G6
+RNBKQ  RPPP  PPP   B N     PP            pn p   p pp pppr bkqbnr
+111111
+9
+00 
+No
+C1E3
+RNBKQ  RPPP  PPP   B N     PP            pn p  pp pp pp r bkqbnr
+111111
+10
+00 
+No
+A7A6
+RNBK   RPPP QPPP   B N     PP            pn p  pp pp pp r bkqbnr
+111111
+11
+00 
+No
+D1D2
+RNBK   RPPP QPPP   B N     PP            pn pp pp pp  p r bkqbnr
+111111
+12
+00 
+No
+C7C6
+BLANK

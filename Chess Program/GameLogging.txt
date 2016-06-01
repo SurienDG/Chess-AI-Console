@@ -1,0 +1,24 @@
+RNBKQBNRPPPPPPPP                                pppppppprnbkqbnr
+111111
+2
+00 
+No
+
+RNBKQBNRPPPP PPP            P                   pppppppprnbkqbnr
+111111
+3
+00 
+No
+D2D4
+RNBKQBNRPPPP PPP            P       p           pppp ppprnbkqbnr
+111111
+4
+00 
+No
+D7D5
+R BKQBNRPPPP PPP  N         P       p           pppp ppprnbkqbnr
+111111
+5
+00 
+No
+G1F3

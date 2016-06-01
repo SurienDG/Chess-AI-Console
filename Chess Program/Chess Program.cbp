@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Chess Program" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Chess Program" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Chess Program" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="../../Grade 11 Programming/CodeBlocks/SDL2-2.0.3/include/SDL2" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2" />
+			<Add directory="../../Grade 11 Programming/CodeBlocks/SDL2-2.0.3/lib" />
+		</Linker>
+		<Unit filename="ArtificialIintelligence.cpp" />
+		<Unit filename="ArtificialIintelligence.h" />
+		<Unit filename="Conversion.cpp" />
+		<Unit filename="Conversion.h" />
+		<Unit filename="GameFunctions.cpp" />
+		<Unit filename="GameFunctions.h" />
+		<Unit filename="LegalMoves.cpp" />
+		<Unit filename="LegalMoves.h" />
+		<Unit filename="PrintChess.cpp" />
+		<Unit filename="PrintChess.h" />
+		<Unit filename="ValidMoves.cpp" />
+		<Unit filename="ValidMoves.h" />
+		<Unit filename="desktop.ini" />
+		<Unit filename="main.cpp" />
+		<Unit filename="moves.cpp" />
+		<Unit filename="moves.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

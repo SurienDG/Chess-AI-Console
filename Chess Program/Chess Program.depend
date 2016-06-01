@@ -1,0 +1,407 @@
+# depslib dependency file v1.0
+1434426895 source:c:\users\user\desktop\surien usb\c++\chess program\artificialiintelligence.cpp
+	"ArtificialIintelligence.h"
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	<climits>
+	<vector>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
+1434233872 c:\users\user\desktop\surien usb\c++\chess program\artificialiintelligence.h
+	<iostream>
+
+1434221114 c:\users\user\desktop\surien usb\c++\chess program\validmoves.h
+	<iostream>
+
+1434249718 c:\users\user\desktop\surien usb\c++\chess program\legalmoves.h
+	<iostream>
+
+1434207954 c:\users\user\desktop\surien usb\c++\chess program\moves.h
+	<iostream>
+
+1434406777 c:\users\user\desktop\surien usb\c++\chess program\conversion.h
+	<iostream>
+
+1434066278 c:\users\user\desktop\surien usb\c++\chess program\gamefunctions.h
+	<iostream>
+
+1434407077 source:c:\users\user\desktop\surien usb\c++\chess program\conversion.cpp
+	"Conversion.h"
+
+1433793764 source:c:\users\user\desktop\surien usb\c++\chess program\gamefunctions.cpp
+	"GameFunctions.h"
+	<fstream>
+
+1434424720 source:c:\users\user\desktop\surien usb\c++\chess program\legalmoves.cpp
+	"LegalMoves.h"
+	<cmath>
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	"windows.h"
+
+1434426790 source:c:\users\user\desktop\surien usb\c++\chess program\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<climits>
+	"PrintChess.h"
+	"moves.h"
+	"LegalMoves.h"
+	"ValidMoves.h"
+	"Conversion.h"
+	"ArtificialIintelligence.h"
+	"GameFunctions.h"
+
+1433793764 c:\users\user\desktop\surien usb\c++\chess program\printchess.h
+	<iostream>
+
+1434418081 source:c:\users\user\desktop\surien usb\c++\chess program\moves.cpp
+	"moves.h"
+	"LegalMoves.h"
+	"PrintChess.h"
+	"Conversion.h"
+	<stdlib.h>
+	<windows.h>
+
+1434405513 source:c:\users\user\desktop\surien usb\c++\chess program\printchess.cpp
+	"PrintChess.h"
+	<iomanip>
+	<windows.h>
+
+1434416429 source:c:\users\user\desktop\surien usb\c++\chess program\validmoves.cpp
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"Conversion.h"
+	<windows.h>
+
+1434318362 source:c:\users\farzam\desktop\chess program\conversion.cpp
+	"Conversion.h"
+
+1433793764 c:\users\farzam\desktop\chess program\conversion.h
+	<iostream>
+
+1433793764 source:c:\users\farzam\desktop\chess program\gamefunctions.cpp
+	"GameFunctions.h"
+	<fstream>
+
+1434066278 c:\users\farzam\desktop\chess program\gamefunctions.h
+	<iostream>
+
+1434249718 source:c:\users\farzam\desktop\chess program\legalmoves.cpp
+	"LegalMoves.h"
+	<cmath>
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	"windows.h"
+
+1434249718 c:\users\farzam\desktop\chess program\legalmoves.h
+	<iostream>
+
+1434207954 c:\users\farzam\desktop\chess program\moves.h
+	<iostream>
+
+1434299220 source:c:\users\farzam\desktop\chess program\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<climits>
+	"PrintChess.h"
+	"moves.h"
+	"LegalMoves.h"
+	"ValidMoves.h"
+	"Conversion.h"
+	"ArtificialIintelligence.h"
+	"GameFunctions.h"
+
+1433793764 c:\users\farzam\desktop\chess program\printchess.h
+	<iostream>
+
+1434221114 c:\users\farzam\desktop\chess program\validmoves.h
+	<iostream>
+
+1434233872 c:\users\farzam\desktop\chess program\artificialiintelligence.h
+	<iostream>
+
+1434208442 source:c:\users\farzam\desktop\chess program\moves.cpp
+	"moves.h"
+	"LegalMoves.h"
+	"PrintChess.h"
+	"Conversion.h"
+	<stdlib.h>
+	<windows.h>
+
+1433793764 source:c:\users\farzam\desktop\chess program\printchess.cpp
+	"PrintChess.h"
+	<iomanip>
+	<windows.h>
+
+1434249718 source:c:\users\farzam\desktop\chess program\validmoves.cpp
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"Conversion.h"
+	<windows.h>
+
+1434318362 source:c:\users\user\desktop\chess program\conversion.cpp
+	"Conversion.h"
+
+1433793764 c:\users\user\desktop\chess program\conversion.h
+	<iostream>
+
+1433793764 source:c:\users\user\desktop\chess program\gamefunctions.cpp
+	"GameFunctions.h"
+	<fstream>
+
+1434066278 c:\users\user\desktop\chess program\gamefunctions.h
+	<iostream>
+
+1434249718 source:c:\users\user\desktop\chess program\legalmoves.cpp
+	"LegalMoves.h"
+	<cmath>
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	"windows.h"
+
+1434249718 c:\users\user\desktop\chess program\legalmoves.h
+	<iostream>
+
+1434207954 c:\users\user\desktop\chess program\moves.h
+	<iostream>
+
+1434321777 source:c:\users\user\desktop\chess program\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<climits>
+	"PrintChess.h"
+	"moves.h"
+	"LegalMoves.h"
+	"ValidMoves.h"
+	"Conversion.h"
+	"ArtificialIintelligence.h"
+	"GameFunctions.h"
+
+1433793764 c:\users\user\desktop\chess program\printchess.h
+	<iostream>
+
+1434221114 c:\users\user\desktop\chess program\validmoves.h
+	<iostream>
+
+1434233872 c:\users\user\desktop\chess program\artificialiintelligence.h
+	<iostream>
+
+1434208442 source:c:\users\user\desktop\chess program\moves.cpp
+	"moves.h"
+	"LegalMoves.h"
+	"PrintChess.h"
+	"Conversion.h"
+	<stdlib.h>
+	<windows.h>
+
+1433793764 source:c:\users\user\desktop\chess program\printchess.cpp
+	"PrintChess.h"
+	<iomanip>
+	<windows.h>
+
+1434249718 source:c:\users\user\desktop\chess program\validmoves.cpp
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"Conversion.h"
+	<windows.h>
+
+1434320155 source:c:\users\user\desktop\chess program\artificialiintelligence.cpp
+	"ArtificialIintelligence.h"
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"moves.h"
+	"Conversion.h"
+	<climits>
+	<vector>
+	<fstream>
+	"GameFunctions.h"
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
+1434465377 source:h:\profile\desktop\chess program\artificialiintelligence.cpp
+	"ArtificialIintelligence.h"
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	<climits>
+	<vector>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
+1434230272 h:\profile\desktop\chess program\artificialiintelligence.h
+	<iostream>
+
+1434217514 h:\profile\desktop\chess program\validmoves.h
+	<iostream>
+
+1434246118 h:\profile\desktop\chess program\legalmoves.h
+	<iostream>
+
+1434465223 h:\profile\desktop\chess program\moves.h
+	<iostream>
+
+1434465222 h:\profile\desktop\chess program\conversion.h
+	<iostream>
+
+1434465222 h:\profile\desktop\chess program\gamefunctions.h
+	<iostream>
+
+1434465222 source:h:\profile\desktop\chess program\conversion.cpp
+	"Conversion.h"
+
+1434465222 source:h:\profile\desktop\chess program\gamefunctions.cpp
+	"GameFunctions.h"
+	<fstream>
+
+1434421122 source:h:\profile\desktop\chess program\legalmoves.cpp
+	"LegalMoves.h"
+	<cmath>
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	"windows.h"
+
+1434465201 source:h:\profile\desktop\chess program\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<climits>
+	"PrintChess.h"
+	"moves.h"
+	"LegalMoves.h"
+	"ValidMoves.h"
+	"Conversion.h"
+	"ArtificialIintelligence.h"
+	"GameFunctions.h"
+
+1434465223 h:\profile\desktop\chess program\printchess.h
+	<iostream>
+
+1434465223 source:h:\profile\desktop\chess program\moves.cpp
+	"moves.h"
+	"LegalMoves.h"
+	"PrintChess.h"
+	"Conversion.h"
+	<stdlib.h>
+	<windows.h>
+
+1434465223 source:h:\profile\desktop\chess program\printchess.cpp
+	"PrintChess.h"
+	<iomanip>
+	<windows.h>
+
+1434412830 source:h:\profile\desktop\chess program\validmoves.cpp
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"Conversion.h"
+	<windows.h>
+
+1434511980 source:c:\users\user\desktop\surien usb\c++\chess program\chess program\artificialiintelligence.cpp
+	"ArtificialIintelligence.h"
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	<climits>
+	<vector>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
+1434502059 c:\users\user\desktop\surien usb\c++\chess program\chess program\artificialiintelligence.h
+	<iostream>
+
+1434485743 c:\users\user\desktop\surien usb\c++\chess program\chess program\validmoves.h
+	<iostream>
+
+1434485741 c:\users\user\desktop\surien usb\c++\chess program\chess program\legalmoves.h
+	<iostream>
+
+1434496527 c:\users\user\desktop\surien usb\c++\chess program\chess program\moves.h
+	<iostream>
+
+1434502060 c:\users\user\desktop\surien usb\c++\chess program\chess program\conversion.h
+	<iostream>
+
+1434496489 c:\users\user\desktop\surien usb\c++\chess program\chess program\gamefunctions.h
+	<iostream>
+
+1434496222 source:c:\users\user\desktop\surien usb\c++\chess program\chess program\conversion.cpp
+	"Conversion.h"
+
+1434496222 source:c:\users\user\desktop\surien usb\c++\chess program\chess program\gamefunctions.cpp
+	"GameFunctions.h"
+	<fstream>
+
+1434489179 source:c:\users\user\desktop\surien usb\c++\chess program\chess program\legalmoves.cpp
+	"LegalMoves.h"
+	<cmath>
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	"windows.h"
+
+1434504882 source:c:\users\user\desktop\surien usb\c++\chess program\chess program\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<climits>
+	"PrintChess.h"
+	"moves.h"
+	"LegalMoves.h"
+	"ValidMoves.h"
+	"Conversion.h"
+	"ArtificialIintelligence.h"
+	"GameFunctions.h"
+
+1434496293 c:\users\user\desktop\surien usb\c++\chess program\chess program\printchess.h
+	<iostream>
+
+1434502060 source:c:\users\user\desktop\surien usb\c++\chess program\chess program\moves.cpp
+	"moves.h"
+	"LegalMoves.h"
+	"PrintChess.h"
+	"Conversion.h"
+	<stdlib.h>
+	<windows.h>
+
+1434502059 source:c:\users\user\desktop\surien usb\c++\chess program\chess program\printchess.cpp
+	"PrintChess.h"
+	<iomanip>
+	<windows.h>
+
+1434485743 source:c:\users\user\desktop\surien usb\c++\chess program\chess program\validmoves.cpp
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"Conversion.h"
+	<windows.h>
+
