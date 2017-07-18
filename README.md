@@ -84,5 +84,8 @@ To exit a game type the word <b>quit</b>.
 <h2>Next Steps:</h2>
 
 <p>
-  Implement bitboards for fasting moves on the AIs behalf.
+<ul>
+<li>Implement bitboards for fasting moves on the AIs behalf.</li>
+<li>Work more on the GUI with SDL found in the <b>Chess-Program-GUI--SDL-</b> repository.
+ <ul>
 </p>
