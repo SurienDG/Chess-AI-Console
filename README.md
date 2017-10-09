@@ -37,6 +37,8 @@ To start the AI at the beginning either type <b>aiupper</b> or <b>ailower</b> de
 <p>
 <img src="https://github.com/sman13/Chess-AI-Console/blob/master/PicturesOfGamePlay/ailower1.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="https://github.com/sman13/Chess-AI-Console/blob/master/PicturesOfGamePlay/ailower2.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img src="https://github.com/sman13/Chess-AI-Console/blob/master/PicturesOfGamePlay/aiupper1.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img src="https://github.com/sman13/Chess-AI-Console/blob/master/PicturesOfGamePlay/aiupper2.JPG" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
 
 <h2> Saving a game: </h2>
