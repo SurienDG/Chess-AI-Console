@@ -95,6 +95,6 @@ To exit a game type the word <b>quit</b>.
 <p>
 <ul>
 <li>Implement bitboards for fasting moves on the AIs behalf.</li>
-<li>Work more on the GUI with SDL found in the <b>Chess-Program-GUI--SDL-</b> repository.
+<li>Work more on the GUI with SDL found in the <strong> <a href = "https://github.com/sman13/Chess-Program-GUI--SDL-" >Chess-Program-GUI--SDL-</a></strong> repository.
  <ul>
 </p>
