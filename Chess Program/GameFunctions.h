@@ -6,20 +6,18 @@
 
 #include <iostream>
 
-using namespace std;
-
 class GameFunctions
 {
 public:
     // function to save the game
-    void SaveGame(string PrintRow[8][8], string NameOfGameFile,  bool add);
+    void SaveGame(std::string PrintRow[8][8], std::string NameOfGameFile,  bool add);
 // function to resume the game
-    void ResumeGame(string PrintRow[8][8], string NameOfFile);
+    void ResumeGame(std::string PrintRow[8][8], std::string NameOfFile);
 // function to reset the game
-    void BoardSetup (string OriginalSetup [8][8], string PrintRow[8][8]);
+    void BoardSetup (std::string OriginalSetup [8][8], std::string PrintRow[8][8]);
     // log function
-    void LoggingGames (string PrintRow[8][8], string NameOfGameFile, bool add,
-                       string bools, int turns, string temps, string EnPassant, string LastMove );
+    void LoggingGames (std::string PrintRow[8][8], std::string NameOfGameFile, bool add,
+                       std::string bools, int turns, std::string temps, std::string EnPassant, std::string LastMove );
 protected:
 private:
 };

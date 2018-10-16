@@ -6,6 +6,9 @@
 #include "GameFunctions.h"
 #include <fstream>
 
+// state that namespace std is being used
+using namespace std;
+
 void GameFunctions::SaveGame(string PrintRow[8][8], string NameOfGameFile,  bool add)
 {
     //function for save game

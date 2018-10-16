@@ -11,6 +11,8 @@
 #include <windows.h>
 //declares headers and libraries
 
+// state that namespace std is being used
+using namespace std;
 
 
 bool moves::Moves (char letter1, int num1, char letter2, int num2, string PrintRow[8][8], bool MateCheck, string player)

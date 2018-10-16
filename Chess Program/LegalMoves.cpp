@@ -8,6 +8,10 @@
 #include "GameFunctions.h"
 #include "windows.h"
 
+
+// state that namespace std is being used
+using namespace std;
+
 // function to prevent a player from taking there own pieces. It also checks that pawns can only take pieces diagonally
 bool LegalMoves::PieceCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8])
 {

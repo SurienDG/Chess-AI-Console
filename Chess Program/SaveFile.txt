@@ -1,6 +1,6 @@
-RNBKQBNRPPPP PPP    P                           pppppppprnbkqbnr
+R  KQB RPB  PPPP P P       N              q  p  ppp  p prnbk b r
 111111
-3
+19
 00 
 No
-D2D3
+C3E4

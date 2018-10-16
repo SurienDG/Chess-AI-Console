@@ -21,6 +21,9 @@
 #include <ctime>
 #include <cstdlib>
 
+// state that namespace std is being used
+using namespace std;
+
 // function to count the number of each type of piece a player has
 int ArtificialIntelligence::NumberOfPieces (string PrintRow[8][8], string piece)
 {

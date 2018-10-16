@@ -7,6 +7,9 @@
 #include <windows.h>
 //includes header and libraries
 
+// state that namespace std is being used
+using namespace std;
+
 void PrintChess::PrintChess1(string PrintRow[8][8])
 {//print chess 1
 

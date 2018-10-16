@@ -405,3 +405,87 @@
 	"Conversion.h"
 	<windows.h>
 
+1539669059 source:d:\users\surien\documents\github\chess-ai-console\chess program\artificialiintelligence.cpp
+	"ArtificialIintelligence.h"
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	<climits>
+	<vector>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
+1539667693 d:\users\surien\documents\github\chess-ai-console\chess program\artificialiintelligence.h
+	<iostream>
+
+1539667721 d:\users\surien\documents\github\chess-ai-console\chess program\validmoves.h
+	<iostream>
+
+1539668970 d:\users\surien\documents\github\chess-ai-console\chess program\legalmoves.h
+	<iostream>
+
+1539668970 d:\users\surien\documents\github\chess-ai-console\chess program\moves.h
+	<iostream>
+
+1539668987 d:\users\surien\documents\github\chess-ai-console\chess program\conversion.h
+	<iostream>
+
+1539668970 d:\users\surien\documents\github\chess-ai-console\chess program\gamefunctions.h
+	<iostream>
+
+1539669066 source:d:\users\surien\documents\github\chess-ai-console\chess program\conversion.cpp
+	"Conversion.h"
+
+1539669070 source:d:\users\surien\documents\github\chess-ai-console\chess program\gamefunctions.cpp
+	"GameFunctions.h"
+	<fstream>
+
+1539669075 source:d:\users\surien\documents\github\chess-ai-console\chess program\legalmoves.cpp
+	"LegalMoves.h"
+	<cmath>
+	"moves.h"
+	"Conversion.h"
+	"GameFunctions.h"
+	"windows.h"
+
+1539665555 source:d:\users\surien\documents\github\chess-ai-console\chess program\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<climits>
+	"PrintChess.h"
+	"moves.h"
+	"LegalMoves.h"
+	"ValidMoves.h"
+	"Conversion.h"
+	"ArtificialIintelligence.h"
+	"GameFunctions.h"
+
+1539668970 d:\users\surien\documents\github\chess-ai-console\chess program\printchess.h
+	<iostream>
+
+1539669080 source:d:\users\surien\documents\github\chess-ai-console\chess program\moves.cpp
+	"moves.h"
+	"LegalMoves.h"
+	"PrintChess.h"
+	"Conversion.h"
+	<stdlib.h>
+	<windows.h>
+
+1539669086 source:d:\users\surien\documents\github\chess-ai-console\chess program\printchess.cpp
+	"PrintChess.h"
+	<iomanip>
+	<windows.h>
+
+1539665555 source:d:\users\surien\documents\github\chess-ai-console\chess program\validmoves.cpp
+	"ValidMoves.h"
+	"LegalMoves.h"
+	"Conversion.h"
+	<windows.h>
+

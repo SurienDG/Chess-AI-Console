@@ -7,31 +7,30 @@
 
 #include <iostream>
 
-using namespace std;
 
 class LegalMoves
 {
 public:
     // function to prevent a player from taking there own pieces. It also checks that pawns can only take pieces diagonally
-    bool PieceCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8]);
+    bool PieceCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,std::string PrintRow[8][8]);
 // function to check to see if the user made a valid move for the pawn
-    static bool PawnCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8]);
+    static bool PawnCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,std::string PrintRow[8][8]);
 // function to check to see if the user made a valid move for the knight
-    static bool KnightCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8]);
+    static bool KnightCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,std::string PrintRow[8][8]);
 // function to check to see if the user made a valid move for the King
-    static bool KingCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8]);
+    static bool KingCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,std::string PrintRow[8][8]);
 // function to check to see if the user made a valid move for the Rook
-    static bool RookCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8]);
+    static bool RookCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,std::string PrintRow[8][8]);
 // function to check to see if the user made a valid move for the Bishop
-    static bool BishopCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8]);
+    static bool BishopCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,std::string PrintRow[8][8]);
 // function to check to see if the user made a valid move for the queen
-    static bool QueenCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8]);
+    static bool QueenCheck (int IntLetterOne, int num1, int IntLetterTwo, int num2,std::string PrintRow[8][8]);
 //check if check can be prevented
-    bool CheckPrevention (int IntLetterOne, int num1, int IntLetterTwo, int num2,string PrintRow[8][8], string player);
+    bool CheckPrevention (int IntLetterOne, int num1, int IntLetterTwo, int num2,std::string PrintRow[8][8], std::string player);
 //checks if king is in check
-    string ischeck (string PrintRow[8][8], string player);
+    std::string ischeck (std::string PrintRow[8][8], std::string player);
 //check for valid castling
-    bool CastlingCheck (string position, string PrintRow[8][8],string player,bool KingUpper,bool KingLower, bool RookUpperRight, bool RookUpperLeft,
+    bool CastlingCheck (std::string position, std::string PrintRow[8][8],std::string player,bool KingUpper,bool KingLower, bool RookUpperRight, bool RookUpperLeft,
                            bool RookLowerRight, bool RookLowerLeft,bool message);
 
 protected:

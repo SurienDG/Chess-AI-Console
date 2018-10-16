@@ -6,13 +6,12 @@
 
 #include <iostream>
 
-using namespace std;
 
 class PrintChess
 {
     public:
-        void PrintChess1(string PrintRow[8][8]);
-        void PrintChess2(string PrintRow[8][8]);
+        void PrintChess1(std::string PrintRow[8][8]);
+        void PrintChess2(std::string PrintRow[8][8]);
     protected:
     private:
 };

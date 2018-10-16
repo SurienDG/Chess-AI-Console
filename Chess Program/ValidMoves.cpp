@@ -7,7 +7,8 @@
 #include "Conversion.h"
 #include <windows.h>
 
-
+// state that namespace std is being used
+using namespace std;
 
 
 // function to get all the valid moves for the rook

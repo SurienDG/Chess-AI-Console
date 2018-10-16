@@ -5,6 +5,9 @@
 #include "Conversion.h"
 //includes header as well
 
+// state that namespace std is being used
+using namespace std;
+
 // function to convert a chracter to an integer
 int Conversion::CharToInt (char InputChar) //converts the char into int
 {

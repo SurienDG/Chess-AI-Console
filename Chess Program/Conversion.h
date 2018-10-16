@@ -8,7 +8,6 @@
 //library included
 #include <iostream>
 
-using namespace std;
 
 class Conversion
 {
@@ -16,7 +15,7 @@ public:
 // function to convert a chracter to an integer
     int CharToInt (char InputChar);
 // fucntion to convert a string to an integer
-    int StringToInt (string InputString);
+    int StringToInt (std::string InputString);
 // function to convert a character (1 or 0) to a bool
     bool CharToBool (char Character);
     // function to convert letters on the board so they are the correct way
